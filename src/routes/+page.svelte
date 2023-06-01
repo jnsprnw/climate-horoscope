@@ -39,8 +39,8 @@
 
 <!-- <pre class="text-xs">{JSON.stringify($SENTENCES, null, 2)}</pre> -->
 
-<ul>
+<!-- <ul>
 {#each RISKS_LABELS as label, i}
 <li>{label}: {$VALUES[i]}</li>
 {/each}
-</ul>
+</ul> -->
