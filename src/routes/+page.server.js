@@ -39,6 +39,28 @@ async function getNotionSentences() {
     }).filter(({ description }) => Boolean(description))
 }
 
+async function getNotionFortunes() {
+  const response = await fetchContent(import.meta.env.VITE_NOTION_API_FORTUNES);
+  const { results } = response;
+  return results
+    .map((item) => {
+      const props = item.properties;
+      const description = (props['Description'].title ?? []).map(({ plain_text }) => plain_text).join('').trim();
+      const house = parseInt(props['House'].select?.name);
+      const topic = props['Topic'].select?.name;
+      const rating = props['Rating'].number;
+      const vibe = props['Vibe'].select?.name;
+
+      return {
+        description,
+        house,
+        topic,
+        rating,
+        vibe
+      }
+    }).filter(({ description }) => Boolean(description))
+}
+
 async function getNotionSigns() {
   const response = await fetchContent(import.meta.env.VITE_NOTION_API_SIGNS);
   const { results } = response;
@@ -89,15 +111,33 @@ async function getDonts() {
     }).filter(({ text, event }) => Boolean(text) && Boolean(event))
 }
 
+async function getHouses() {
+  const response = await fetchContent(import.meta.env.VITE_NOTION_API_HOUSES);
+  const { results } = response;
+  return results
+    .map((item) => {
+      const props = item.properties;
+      const number = props['Number'].number
+      const description = (props['Climate house description'].rich_text ?? []).map(({ plain_text }) => plain_text).join('').trim();
+
+      return {
+        number,
+        description
+      }
+    })
+}
+
 export async function load() {
-  const sentences = await getNotionSentences();
+  const sentences = await getNotionFortunes();
   const signs = await getNotionSigns();
   const dos = await getDos();
   const donts = await getDonts();
+  const houses = await getHouses();
   return {
     sentences,
     signs,
     dos,
-    donts
+    donts,
+    houses
   };
 }

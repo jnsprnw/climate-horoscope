@@ -1,10 +1,12 @@
 <script>
   import { REGIONS, RISKS_LABELS } from '$lib/../config.js';
-  import { VALUES, CURRENT_REGION_INDEX, PROBABILITIES, SENTENCE, SENTENCES, DATE, SIGN, SIGNS, DOS, DOS_SELECTION, DONTS_SELECTION } from '$lib/../store.js';
+  import { HOUSE, HOUSES, VALUES, CURRENT_REGION_INDEX, PROBABILITIES, SENTENCE, SENTENCES, DATE, SIGN, SIGNS, DOS, DOS_SELECTION, DONTS_SELECTION } from '$lib/../store.js';
   import Button from '$lib/Regions/Button.svelte';
   
 
   // $: console.log($DOS, $DOS_SELECTION)
+
+  // $: console.log($HOUSES)
 
 </script>
 
@@ -32,18 +34,26 @@
   </div>
   </div>
 
+  <!-- {JSON.stringify($SENTENCE)} -->
   {#if $SENTENCE || $SIGN}
   <div class="flex gap-2 max-w-2xl border p-5 md:p-10 border-gray-900 gap-y-10 flex-col mt-10 bg-white">
     <h2 class="text-center font-serif text-2xl w-full">Your climate fortune</h2>
+    
     {#if $SENTENCE}
     <p class="text-sm text-gray-700 max-w-prose leading-relaxed">{$SENTENCE.description}</p>
+    
+    {#if $HOUSE}
+    <p class="italic text-sm text-gray-500 max-w-prose leading-relaxed">{$HOUSE.description}</p>
+    {/if}
+    <!-- {JSON.stringify($HOUSE)} -->
+    <!-- {$HOUSE} -->
     {/if}
     <!-- {JSON.stringify($DOS_SELECTION)} -->
     
     <div class="grid grid-cols-2 gap-x-10">
       {#if $DOS_SELECTION && $DOS_SELECTION.length}
       <section>
-        <h3 class="font-serif text-md mb-2">Do’s</h3>
+        <h3 class="font-serif text-md mb-2">Dos</h3>
         <ul>
         {#each $DOS_SELECTION as do_item}
           <li class="text-sm text-gray-700 max-w-prose leading-relaxed">— {do_item.text}</li>
@@ -53,7 +63,7 @@
       {/if}
       {#if $DONTS_SELECTION && $DONTS_SELECTION.length}
       <section>
-        <h3 class="font-serif text-md mb-2">Do Not’s</h3>
+        <h3 class="font-serif text-md mb-2">Do Nots</h3>
         <ul>
         {#each $DONTS_SELECTION as do_item}
           <li class="text-sm text-gray-700 max-w-prose leading-relaxed">— {do_item.text}</li>

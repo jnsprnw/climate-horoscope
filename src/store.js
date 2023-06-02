@@ -43,6 +43,7 @@ export const SENTENCES = derived(page, ($page) => $page.data?.sentences ?? []);
 export const SIGNS = derived(page, ($page) => $page.data?.signs ?? []);
 export const DOS = derived(page, ($page) => $page.data?.dos ?? []);
 export const DONTS = derived(page, ($page) => $page.data?.donts ?? []);
+export const HOUSES = derived(page, ($page) => $page.data?.houses ?? []);
 
 export const DATUM = writable(data);
 
@@ -95,7 +96,14 @@ export const DONTS_SELECTION = derived([TOPICS, DONTS], ([$topics, $donts]) => {
 export const SENTENCE = derived([TOPICS, SENTENCES], ([$topics, $sentences]) => {
   const label = $topics[0];
   const selection = $sentences.filter(({ topic }) => label === topic)
-  return selection[Math.floor(Math.random() * selection.length)]
+  const sentence = selection[Math.floor(Math.random() * selection.length)];
+  // console.log({ label, selection, sentence })
+  return sentence;
+})
+
+export const HOUSE = derived([SENTENCE, HOUSES], ([$sentence, $houses]) => {
+  const house = $sentence?.house ?? 0;
+  return $houses.find(({ number }) => number === house)
 })
 
 export const DATE = writable(null);
