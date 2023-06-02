@@ -41,7 +41,7 @@
     
     {#if $HOUSE}
     <div class="flex justify-center">
-    <img src="/houses/House{$HOUSE.number}.svg" class="max-w-[100px]" />
+    <img src="/houses/House{$HOUSE.number}.svg" class="max-w-[100px]" alt="Symbol of the house" />
   </div>
     <p class="italic text-sm text-gray-500 max-w-prose leading-relaxed">{$HOUSE.description}</p>
     {/if}

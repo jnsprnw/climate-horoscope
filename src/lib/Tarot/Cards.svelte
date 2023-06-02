@@ -5,11 +5,11 @@
   const cards = shuffle(generateFilledArray(21));
 </script>
 
-<div class="grid grid-cols-3 sm:grid-cols-7 md:grid-cols-7 w-full gap-8 sm:gap-5">
+<div class="grid grid-cols-3 sm:grid-cols-7 md:grid-cols-7 w-full gap-8 sm:gap-3">
   {#each cards as i}
     {@const number = i + 1}
     {@const isActive = $TAROT_NUMBER === number}
-    {@const background = isActive ? `tarot-${number}.jpeg` : `CardBacks.jpg`}
+    {@const background = isActive ? `tarot-new-${number}.jpg` : `CardBacks.jpg`}
     <button
       on:click={() => TAROT_NUMBER.set(number)}
       style="background-image: url(/tarot/{background}); aspect-ratio: 300 / 527;"

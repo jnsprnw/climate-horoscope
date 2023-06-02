@@ -17,28 +17,6 @@ async function fetchContent(url) {
   return await result.json();
 }
 
-async function getNotionSentences() {
-  const response = await fetchContent(import.meta.env.VITE_NOTION_API_TEXTS);
-  const { results } = response;
-  return results
-    .map((item) => {
-      const props = item.properties;
-      const description = (props['Description'].title ?? []).map(({ plain_text }) => plain_text).join('').trim();
-      const house = props['House'].select?.name;
-      const topic = props['Topic'].select?.name;
-      const rating = props['Rating'].number;
-      const vibe = props['Vibe'].select?.name;
-
-      return {
-        description,
-        house,
-        topic,
-        rating,
-        vibe
-      }
-    }).filter(({ description }) => Boolean(description))
-}
-
 async function getNotionFortunes() {
   const response = await fetchContent(import.meta.env.VITE_NOTION_API_FORTUNES);
   const { results } = response;
