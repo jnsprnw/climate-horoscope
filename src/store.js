@@ -44,6 +44,7 @@ export const SIGNS = derived(page, ($page) => $page.data?.signs ?? []);
 export const DOS = derived(page, ($page) => $page.data?.dos ?? []);
 export const DONTS = derived(page, ($page) => $page.data?.donts ?? []);
 export const HOUSES = derived(page, ($page) => $page.data?.houses ?? []);
+export const TAROTS = derived(page, ($page) => $page.data?.tarots ?? []);
 
 export const DATUM = writable(data);
 
@@ -122,3 +123,9 @@ export const SIGN = derived(
     return undefined
   }
 );
+
+export const TAROT_NUMBER = writable(null);
+
+export const TAROT_CARD = derived([TAROT_NUMBER, TAROTS], ([$number, $tarots]) => {
+  return $tarots.find(({ number }) => number === $number)
+})

@@ -1,13 +1,9 @@
 <script>
   import { REGIONS, RISKS_LABELS } from '$lib/../config.js';
-  import { HOUSE, HOUSES, VALUES, CURRENT_REGION_INDEX, PROBABILITIES, SENTENCE, SENTENCES, DATE, SIGN, SIGNS, DOS, DOS_SELECTION, DONTS_SELECTION } from '$lib/../store.js';
+  import { TAROT_CARD, HOUSE, HOUSES, VALUES, CURRENT_REGION_INDEX, PROBABILITIES, SENTENCE, SENTENCES, DATE, SIGN, SIGNS, DOS, DOS_SELECTION, DONTS_SELECTION } from '$lib/../store.js';
   import Button from '$lib/Regions/Button.svelte';
+  import Cards from '$lib/Tarot/Cards.svelte';
   
-
-  // $: console.log($DOS, $DOS_SELECTION)
-
-  // $: console.log($HOUSES)
-
 </script>
 
 <!-- {$VALUES} -->
@@ -50,7 +46,7 @@
     {/if}
     <!-- {JSON.stringify($DOS_SELECTION)} -->
     
-    <div class="grid grid-cols-2 gap-x-10">
+    <div class="grid md:grid-cols-2 gap-y-10 gap-x-10">
       {#if $DOS_SELECTION && $DOS_SELECTION.length}
       <section>
         <h3 class="font-serif text-md mb-2">Dos</h3>
@@ -82,6 +78,17 @@
     {/if}
   </div>
   {/if}
+
+  <div class="flex gap-2 max-w-2xl border p-5 md:p-10 border-gray-900 gap-y-10 flex-col mt-10 items-center bg-white">
+    <h2 class="text-center font-serif text-2xl w-full">Our little Tarot corner</h2>
+    <Cards />
+    {#if $TAROT_CARD}
+    <div>
+      <h3 class="text-center font-serif text-md w-full mb-2">{$TAROT_CARD.title} / {$TAROT_CARD.number}</h3>
+      <p class="text-sm text-gray-700 max-w-prose leading-relaxed">{$TAROT_CARD.description}</p>
+    </div>
+    {/if}
+  </div>
 
   <div class="flex gap-2 max-w-2xl border p-5 md:p-10 border-gray-900 gap-y-5 flex-col mt-10 items-center bg-white">
     <p class="text-sm text-gray-700 max-w-prose leading-relaxed">Remember, dear friends, that we are interconnected with the planet we call home. By nurturing our environment, embracing sustainable practices, advocating for change, both on a personal and political level, we can collectively steer our world towards a brighter and greener future. <a href="/about" class="underline decoration-gray-400 hover:decoration-gray-900 transition-colors">Find out more about this project here.</a></p>

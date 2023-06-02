@@ -127,17 +127,37 @@ async function getHouses() {
     })
 }
 
+async function getTarot() {
+  const response = await fetchContent(import.meta.env.VITE_NOTION_API_TAROT);
+  const { results } = response;
+  return results
+    .map((item) => {
+      const props = item.properties;
+      const number = props['Number'].number
+      const title = (props['Name'].title ?? []).map(({ plain_text }) => plain_text).join('').trim();
+      const description = (props['Text'].rich_text ?? []).map(({ plain_text }) => plain_text).join('').trim();
+
+      return {
+        number,
+        title,
+        description
+      }
+    })
+}
+
 export async function load() {
   const sentences = await getNotionFortunes();
   const signs = await getNotionSigns();
   const dos = await getDos();
   const donts = await getDonts();
   const houses = await getHouses();
+  const tarots = await getTarot();
   return {
     sentences,
     signs,
     dos,
     donts,
-    houses
+    houses,
+    tarots
   };
 }
