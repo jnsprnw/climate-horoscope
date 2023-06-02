@@ -3,8 +3,14 @@
 
   export let region;
   export let index;
+  export let fortune;
 
   $: isActive = $CURRENT_REGION_INDEX === index;
+
+  function change(index) {
+    CURRENT_REGION_INDEX.set(index)
+    fortune.scrollIntoView();
+  }
 </script>
 
 <button
@@ -12,4 +18,4 @@
   class:bg-white={!isActive}
   class:bg-gray-900={isActive}
   class:text-white={isActive}
-  on:click={() => CURRENT_REGION_INDEX.set(index)}>{region}</button>
+  on:click={() => change(index)}>{region}</button>

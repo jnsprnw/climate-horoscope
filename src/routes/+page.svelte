@@ -3,7 +3,8 @@
   import { TAROT_CARD, HOUSE, HOUSES, VALUES, CURRENT_REGION_INDEX, PROBABILITIES, SENTENCE, SENTENCES, DATE, SIGN, SIGNS, DOS, DOS_SELECTION, DONTS_SELECTION } from '$lib/../store.js';
   import Button from '$lib/Regions/Button.svelte';
   import Cards from '$lib/Tarot/Cards.svelte';
-  
+  let card;
+  let fortune;
 </script>
 
 <!-- {$VALUES} -->
@@ -24,13 +25,14 @@
     <h2 class="text-center font-serif text-lg w-full">Choose your region</h2>
     <div class="flex gap-x-2 gap-y-4 flex-wrap w-full justify-center">
       {#each REGIONS as region, index}
-      <Button {region} {index} />
+      <Button {region} {index} {fortune} />
       {/each}
     </div>
   </div>
   </div>
 
   <!-- {JSON.stringify($SENTENCE)} -->
+  <div bind:this={fortune}>
   {#if $SENTENCE || $SIGN}
   <div class="flex gap-2 max-w-2xl border p-5 md:p-10 border-gray-900 gap-y-10 flex-col mt-10 bg-white">
     <h2 class="text-center font-serif text-2xl w-full">Your climate fortune</h2>
@@ -83,19 +85,22 @@
     {/if}
   </div>
   {/if}
+  </div>
 
   <div class="flex gap-2 max-w-2xl border p-5 md:p-10 border-gray-900 gap-y-10 flex-col mt-10 items-center bg-white">
     <div class="w-full">
     <h2 class="text-center font-serif text-2xl w-full">If you need a respite from your inner weather</h2>
     <p class="text-center text-sm text-gray-700 max-w-prose leading-relaxed">Choose a card.</p>
   </div>
-    <Cards />
+    <Cards card={card} />
+    <div id="card" bind:this={card}>
     {#if $TAROT_CARD}
-    <div>
-      <h3 class="text-center font-serif text-md w-full mb-2">{$TAROT_CARD.title} / {$TAROT_CARD.number}</h3>
+    
+      <h3 class="text-center font-serif text-xl w-full mb-2">{$TAROT_CARD.title} / {$TAROT_CARD.number}</h3>
       <p class="text-sm text-gray-700 max-w-prose leading-relaxed">{$TAROT_CARD.description}</p>
-    </div>
+    
     {/if}
+  </div>
   </div>
 
   <div class="flex gap-2 max-w-2xl border p-5 md:p-10 border-gray-900 gap-y-5 flex-col mt-10 items-center bg-white">
