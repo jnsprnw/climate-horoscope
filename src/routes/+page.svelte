@@ -19,7 +19,7 @@
   <div class="flex gap-2 max-w-2xl border p-5 md:p-10 border-gray-900 gap-y-10 flex-col mt-10 bg-white">
     <div class="flex gap-y-5 flex-col justify-center items-center">
       <h2 class="text-center font-serif text-lg w-full">Tell us your birthdate</h2>
-      <input type="date" bind:value={$DATE} class="w-full border-b border-gray-900 text-gray-500 text-xs uppercase text-center focus:outline-none focus:text-gray-900" />
+      <input type="date" bind:value={$DATE} class="rounded-none bg-gray-100 w-full border-b border-gray-900 text-gray-500 text-xs uppercase text-center focus:outline-none focus:text-gray-900" />
     </div>
   <div class="flex gap-y-5 flex-col">
     <h2 class="text-center font-serif text-lg w-full">Choose your region</h2>
