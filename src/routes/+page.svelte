@@ -80,7 +80,10 @@
   {/if}
 
   <div class="flex gap-2 max-w-2xl border p-5 md:p-10 border-gray-900 gap-y-10 flex-col mt-10 items-center bg-white">
+    <div class="w-full">
     <h2 class="text-center font-serif text-2xl w-full">Our little Tarot corner</h2>
+    <p class="text-center text-sm text-gray-700 max-w-prose leading-relaxed">Choose a card</p>
+  </div>
     <Cards />
     {#if $TAROT_CARD}
     <div>

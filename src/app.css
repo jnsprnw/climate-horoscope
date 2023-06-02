@@ -14,5 +14,5 @@
 html {
   @apply bg-cover bg-fixed;
 
-  background-image: url("Background.webp");
+  background-image: url("/Background.webp");
 }
