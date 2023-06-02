@@ -3,5 +3,5 @@
   import Chart from '$lib/Chart/Chart.svelte';
 </script>
 
-<Chart />
+<!-- <Chart /> -->
 <slot />

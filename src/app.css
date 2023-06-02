@@ -12,5 +12,7 @@
 }
 
 html {
-  @apply bg-amber-50/50;
+  @apply bg-cover bg-fixed;
+
+  background-image: url("Background.webp");
 }

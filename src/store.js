@@ -16,11 +16,33 @@ import {
 } from './config.js';
 import { getValue } from './utils.js';
 
+function getNUniqueRandomNumbers(n, max) {
+  var arr = [];
+  while (arr.length < n) {
+    const r = Math.floor(Math.random() * max);
+    if (arr.indexOf(r) === -1) {
+      arr.push(r);
+    }
+  }
+  return arr;
+}
+
+function getUniqueRandomFromArray(arr) {
+  if (arr.length) {
+    const indices = getNUniqueRandomNumbers(3, arr.length);
+    return indices.map(i => arr[i]);
+  } else {
+    return [];
+  }
+  
+}
+
 const getSign = zodiac();
 
 export const SENTENCES = derived(page, ($page) => $page.data?.sentences ?? []);
 export const SIGNS = derived(page, ($page) => $page.data?.signs ?? []);
 export const DOS = derived(page, ($page) => $page.data?.dos ?? []);
+export const DONTS = derived(page, ($page) => $page.data?.donts ?? []);
 
 export const DATUM = writable(data);
 
@@ -48,23 +70,31 @@ export const PROBABILITIES = derived(
   }
 );
 
-export const TOPIC = derived(
+export const TOPICS = derived(
   PROBABILITIES,
   ($probabilities) => {
-    const idx = $probabilities[Math.floor(Math.random() * $probabilities.length)];
-    return RISKS_LABELS[idx];
+    const index = Math.floor(Math.random() * $probabilities.length)
+    return [...[RISKS_LABELS[$probabilities[index]]]];
   }
 );
 
-export const DOS_SELECTION = derived([TOPIC, DOS], ([$topic, $dos]) => {
-  console.log($dos, $topic)
-  const dos_filter = $dos.filter(({ event }) => event === ['all'] || event.includes($topic))
-  console.log({dos_filter}, dos_filter.length, Math.floor(Math.random() * dos_filter.length))
-  return [...Array(3).keys()].map(() => dos_filter[Math.floor(Math.random() * dos_filter.length)]);
+const f = (event, topic) => (event === ['all'] || event.includes(topic));
+
+export const DOS_SELECTION = derived([TOPICS, DOS], ([$topics, $dos]) => {
+  const label = $topics[0];
+  const datum = $dos.filter(({ event }) => f(event, label))
+  return getUniqueRandomFromArray(datum)
 })
 
-export const SENTENCE = derived([TOPIC, SENTENCES], ([$topic, $sentences]) => {
-  const selection = $sentences.filter(({ topic }) => $topic === topic)
+export const DONTS_SELECTION = derived([TOPICS, DONTS], ([$topics, $donts]) => {
+  const label = $topics[0];
+  const datum = $donts.filter(({ event }) => f(event, label))
+  return getUniqueRandomFromArray(datum)
+})
+
+export const SENTENCE = derived([TOPICS, SENTENCES], ([$topics, $sentences]) => {
+  const label = $topics[0];
+  const selection = $sentences.filter(({ topic }) => label === topic)
   return selection[Math.floor(Math.random() * selection.length)]
 })
 
@@ -76,10 +106,8 @@ export const SIGN = derived(
     const date = new Date($date)
     const month = date.getMonth() + 1;
     const day = date.getDay();
-    console.log($date)
     if ($date && month && day) {
       const sign_classic = getSign.getSignByDate({ day, month }).name;
-      console.log(sign_classic, $signs)
       const sign_new = ($signs ?? []).find(({ id }) => id === sign_classic)
       return sign_new
     }

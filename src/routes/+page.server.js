@@ -45,7 +45,6 @@ async function getNotionSigns() {
   return results
     .map((item) => {
       const props = item.properties;
-      console.log({ props })
       const id = (props['Sign'].rich_text ?? []).map(({ plain_text }) => plain_text).join('').trim();
       const newSign = (props['alternative Name'].rich_text ?? []).map(({ plain_text }) => plain_text).join('').trim();
       const description = (props['alternative text'].rich_text ?? []).map(({ plain_text }) => plain_text).join('').trim();
@@ -61,11 +60,9 @@ async function getNotionSigns() {
 async function getDos() {
   const response = await fetchContent(import.meta.env.VITE_NOTION_API_DOS);
   const { results } = response;
-  console.log(response)
   return results
     .map((item) => {
       const props = item.properties;
-      console.log({ props })
       const text = (props['Text'].title ?? []).map(({ plain_text }) => plain_text).join('').trim();
       const event = props['Weather Event'].multi_select.map(({ name }) => name);
 
@@ -73,16 +70,34 @@ async function getDos() {
         text,
         event
       }
-    })
+    }).filter(({ text, event }) => Boolean(text) && Boolean(event))
+}
+
+async function getDonts() {
+  const response = await fetchContent(import.meta.env.VITE_NOTION_API_DONTS);
+  const { results } = response;
+  return results
+    .map((item) => {
+      const props = item.properties;
+      const text = (props['Text'].title ?? []).map(({ plain_text }) => plain_text).join('').trim();
+      const event = props['Weather Event'].multi_select.map(({ name }) => name);
+
+      return {
+        text,
+        event
+      }
+    }).filter(({ text, event }) => Boolean(text) && Boolean(event))
 }
 
 export async function load() {
   const sentences = await getNotionSentences();
   const signs = await getNotionSigns();
   const dos = await getDos();
+  const donts = await getDonts();
   return {
     sentences,
     signs,
-    dos
+    dos,
+    donts
   };
 }
