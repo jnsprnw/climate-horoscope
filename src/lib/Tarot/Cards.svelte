@@ -9,7 +9,7 @@
   {#each cards as i}
     {@const number = i + 1}
     {@const isActive = $TAROT_NUMBER === number}
-    {@const background = isActive ? `tarot-new-${number}.jpg` : `CardBacks.jpg`}
+    {@const background = isActive ? `tarot-new-${number}.webp` : `CardBacks.jpg`}
     <button
       on:click={() => TAROT_NUMBER.set(number)}
       style="background-image: url(/tarot/{background}); aspect-ratio: 300 / 527;"
