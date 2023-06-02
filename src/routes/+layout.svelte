@@ -28,5 +28,5 @@
   <meta property="og:url" content={url} />
 </svelte:head>
 
-<!-- <Chart /> -->
+<Chart />
 <slot />

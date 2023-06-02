@@ -1,11 +1,12 @@
 <script>
+  import { generateFilledArray, shuffle } from '$lib/../utils.js';
   import { browser, dev, building, version } from '$app/environment';
   let width;
   let height;
 
   $: size = width * 0.7;
   $: viewBox = [-width / 2, -height / 2, width, height];
-  const houses = ['something', 'something','something', 'something','something', 'something','something', 'something'];
+  const houses = generateFilledArray(12);
   $: deg_step = 360 / houses.length;
   $: deg_step_half = deg_step / 2;
 
@@ -38,7 +39,8 @@
           <g transform={`rotate(${deg_step_half})`}>
             <line x1={half} x2={position_inner} class="stroke-1 stroke-gray-900" />
           </g>
-          <text class="font-serif" transform={`rotate(90, ${position_outer}, 0)`} dominant-baseline="middle" text-anchor="middle" x={position_outer}>{ house }</text>
+          <!-- <House /> -->
+          <!-- <text class="font-serif" transform={`rotate(90, ${position_outer}, 0)`} dominant-baseline="middle" text-anchor="middle" x={position_outer}>{ house }</text> -->
         </g>
       {/each}
     </g>
