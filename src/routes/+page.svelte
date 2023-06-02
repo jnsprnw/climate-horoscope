@@ -32,7 +32,7 @@
   </div>
 
   <!-- {JSON.stringify($SENTENCE)} -->
-  <div bind:this={fortune}>
+  <div bind:this={fortune} class="scroll-mt-32">
   {#if $SENTENCE || $SIGN}
   <div class="flex gap-2 max-w-2xl border p-5 md:p-10 border-gray-900 gap-y-10 flex-col mt-10 bg-white">
     <h2 class="text-center font-serif text-2xl w-full">Your climate fortune</h2>
@@ -93,7 +93,7 @@
     <p class="text-center text-sm text-gray-700 max-w-prose leading-relaxed">Choose a card.</p>
   </div>
     <Cards card={card} />
-    <div id="card" bind:this={card}>
+    <div id="card" bind:this={card} class="scroll-mt-64">
     {#if $TAROT_CARD}
     
       <h3 class="text-center font-serif text-xl w-full mb-2">{$TAROT_CARD.title} / {$TAROT_CARD.number}</h3>

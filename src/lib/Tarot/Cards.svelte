@@ -12,7 +12,7 @@
   
 </script>
 
-<div class="grid grid-cols-3 sm:grid-cols-7 md:grid-cols-7 w-full gap-8 sm:gap-3">
+<div class="grid grid-cols-3 sm:grid-cols-7 md:grid-cols-7 w-full gap-x-8 gap-y-4 sm:gap-3">
   {#each cards as i}
     {@const number = i + 1}
     {@const isActive = $TAROT_NUMBER === number}
