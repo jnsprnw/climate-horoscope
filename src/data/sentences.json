@@ -1,0 +1,691 @@
+[
+  {
+    "description": "A deluge engulfs your 12th House, traditionally associated with the subconscious, spirituality, and solitude, heralding a time of emotional overwhelm and potential upheaval within your inner and spiritual life. This flood may bring a surge of intense emotions or overwhelming moments of introspection, only to wash them away in the relentless current of emotional confusion and a lack of spiritual clarity. Embrace this flood as a cruel reminder of the transience of spiritual experiences and the elusive nature of finding true inner peace. Allow the floodwaters to further drown your hopes of finding profound spiritual connection, leaving you adrift in a sea of uncertainty and emotional turbulence. From the flood, you may emerge with a heightened sense of inner disarray, still yearning for a genuine connection to your subconscious self and a lasting sense of spiritual tranquility.",
+    "house": 12,
+    "topic": "River Floods",
+    "rating": 0,
+    "vibe": "negative"
+  },
+  {
+    "description": "A drought in your 2nd House, the domain of wealth and values, signifies a period of financial challenges and self-reflection. Expect potential setbacks, causing a reevaluation of your possessions and priorities. Yet, this drought serves as a catalyst for growth and adaptation, urging you to appreciate your resources. As your self-esteem may waver, use this phase to reassess your values and rediscover your resilience. Remember, a drought fosters growth through conservation and the true wealth lies in resilience, not possessions. This testing period is merely a precursor to abundance and prosperity, strengthening you for the journey ahead.",
+    "house": 2,
+    "topic": "Droughts",
+    "rating": 4,
+    "vibe": "positive"
+  },
+  {
+    "description": "A desolate drought settles into your 2nd House, the realm of possessions, material wealth, and personal values, indicating a prolonged period of financial aridity and scarcity. This phase brings a persistent sense of lack and deprivation, further deepening your feelings of financial insecurity. Embrace this time as an opportunity for introspection, though it may only reinforce your belief that true financial stability is forever out of reach. Use this period to reflect on the futility of seeking material abundance, for it may wither and fade like the barren landscape of your possessions. From this drought, you may emerge with a heightened sense of financial desolation, resigned to a fate of perpetual material struggle.",
+    "house": 2,
+    "topic": "Droughts",
+    "rating": 0,
+    "vibe": "negative"
+  },
+  {
+    "description": "A wildfire engulfs your 1st House, traditionally associated with self, identity, and personal expression, consuming your very essence with its intense and transformative energy. This wildfire may disrupt your sense of self or ignite a burning sense of despair and disillusionment. Embrace this opportunity for radical change, though it may only intensify your feelings of internal destruction and disarray. Allow the wildfire to burn away any remnants of self-worth, leaving you to navigate the ashes of your shattered identity. From the flames, you may emerge with a heightened sense of loss, struggling to find meaning amidst the ruins of your self-perception.",
+    "house": 1,
+    "topic": "Wildfire",
+    "rating": 0,
+    "vibe": "negative"
+  },
+  {
+    "description": "In the domain of your 10th House, a challenging event unfolds. Under the cover of darkness, intruders trespassed upon your sacred garden, pilfering precious apples from the cherished tree your grandparent once planted. This act has disrupted the harmony and abundance that once flourished. As a result, the scarcity of food has become a pressing concern, casting a shadow over your sense of stability and nourishment. It is a time when resourcefulness and resilience are called upon to navigate this difficult situation. Seek solace in the memories of your grandparent's legacy and draw strength from the lessons they imparted. Embrace the opportunity to find new ways to cultivate sustenance and resilience in the face of scarcity. Remember, the loss of apples does not define the entirety of your garden, nor does it diminish your ability to thrive. Find solace in the seeds of resilience that lie within you and forge a path towards sustenance and abundance once again.",
+    "house": 10,
+    "topic": "Crop Failures",
+    "rating": 9,
+    "vibe": "positive"
+  },
+  {
+    "description": "A drought settles into your 10th House, the realm of career, public image, and achievements, indicating a period of scarcity or dryness in your professional life. This phase may bring a temporary decrease in motivation or challenges in achieving your career goals. Embrace this time as an opportunity for introspection and reevaluation of your professional path. Use this period to reassess your ambitions, refine your strategies, and focus on personal and professional development. From this drought, you can emerge with a clearer sense of purpose, renewed determination, and a stronger foundation for long-term success.",
+    "house": 10,
+    "topic": "Droughts",
+    "rating": 0,
+    "vibe": "positive"
+  },
+  {
+    "description": "A wildfire engulfs your 7th House, traditionally associated with partnerships, relationships, and marriage, consuming your sense of harmony and intimacy with its intense and transformative energy. This wildfire may disrupt your relationship dynamics or ignite a burning sense of loneliness and longing for a deep connection. Embrace this opportunity for radical change, though it may only intensify your feelings of isolation and emotional turmoil. Allow the wildfire to burn away any remnants of superficial relationships, leaving you to navigate the ashes of broken bonds. From the flames, you may emerge with a heightened sense of emotional loss, struggling to find genuine love and authentic partnerships.",
+    "house": 7,
+    "topic": "Wildfire",
+    "rating": 0,
+    "vibe": "negative"
+  },
+  {
+    "description": "In the realm of your 1st House, a heatwave blankets the land, causing sweat to trickle down your forehead. The sweltering temperatures demand attention, and it is important to take care of yourself during this challenging time. Embrace the opportunity to prioritize your well-being and find ways to stay cool and hydrated. Share this wisdom with your neighbors and encourage them to take necessary precautions as well. Look out for one another and offer support, reminding them to stay cool and take necessary measures to protect themselves from the heat. Remember, in times of extreme weather, unity and community are crucial. By sharing information and looking out for each other, you can collectively navigate this period of intense heat and ensure the well-being of all within the realm of the 1st House.",
+    "house": 1,
+    "topic": "Heatwave",
+    "rating": 0,
+    "vibe": "positive"
+  },
+  {
+    "description": "A desolate drought settles into your 5th House, the realm of creativity, self-expression, and romance, indicating a prolonged period of creative aridity and emotional scarcity in these areas of your life. This phase brings a persistent sense of artistic blockage and romantic deprivation, further deepening your feelings of creative inadequacy and emotional longing. Embrace this time as an opportunity for introspection, though it may only reinforce your belief that true artistic fulfillment and romantic happiness are forever out of reach. Use this period to reflect on the futility of seeking creative inspiration and romantic connection, for they may wither and fade like the barren landscape of your creative and romantic world. From this drought, you may emerge with a heightened sense of creative and romantic desolation, resigned to a fate of perpetual artistic and emotional longing.",
+    "house": 5,
+    "topic": "Droughts",
+    "rating": 0,
+    "vibe": "negative"
+  },
+  {
+    "description": "A storm brews in your 9th House, the realm of expansion, higher learning, and belief systems. This period brings potential turbulence and change in your quest for knowledge and spiritual growth. Embrace the storm as an opportunity for inner exploration and expanding your worldview. Allow the storm to challenge your beliefs, invite new perspectives, and deepen your understanding. From the storm, emerge with greater wisdom, a broader perspective, and a renewed sense of purpose in your spiritual and intellectual journey.",
+    "house": 9,
+    "topic": "Tropical Cyclones",
+    "rating": 0,
+    "vibe": "positive"
+  },
+  {
+    "description": "A wildfire engulfs your 3rd House, traditionally associated with communication, siblings, and local interactions, consuming your ability to connect and express yourself with its intense and transformative energy. This wildfire may disrupt your communication patterns or ignite a burning sense of confusion and miscommunication. Embrace this opportunity for radical change, though it may only intensify your feelings of isolation and frustration. Allow the wildfire to burn away any remnants of effective communication, leaving you to navigate the ashes of broken connections. From the flames, you may emerge with a heightened sense of alienation, struggling to find your voice and establish meaningful bonds.",
+    "house": 3,
+    "topic": "Wildfire",
+    "rating": 0,
+    "vibe": "negative"
+  },
+  {
+    "description": "Within the realm of your 3rd House, a turbulent presence emerges. Dust storms whip through the air, creating an atmosphere of uncertainty and unease. As the gritty particles settle upon your surroundings, it is vital to be mindful of the cracks that form upon your skin, both metaphorically and literally. This cosmic phenomenon signals a time of heightened mental and communicative challenges. Dust off the cobwebs of doubt and confusion that may cloud your thoughts. Take extra care to nurture your mental well-being and protect your physical body from the harsh external elements. Seek solace in grounding practices and the strength of your inner voice. Embrace the opportunity to cultivate resilience and adaptability in the face of these swirling winds. Remember, even amidst the storms, clarity and connection can be found. Nurture your mind and body as you traverse this celestial tempest, and trust that calmer skies await beyond the haze.",
+    "house": 3,
+    "topic": "Droughts",
+    "rating": 7,
+    "vibe": "positive"
+  },
+  {
+    "description": "A wildfire blazes in your 6th House, the sphere of work, daily routines, and health, igniting a period of transformative energy and dynamic change. This wildfire may disrupt your usual routines and bring unexpected shifts in your work or health. Embrace this opportunity for reinvention and growth. Allow the wildfire to burn away outdated habits and beliefs that no longer serve you. Embrace new approaches, innovative ideas, and adaptability. While the wildfire may feel intense, trust in your ability to navigate through the flames. From the ashes, a renewed sense of purpose, productivity, and well-being will emerge. Embrace the transformative power of the wildfire and let it fuel your journey towards a more fulfilling and balanced life.",
+    "house": 6,
+    "topic": "Wildfire",
+    "rating": 0,
+    "vibe": "positive"
+  },
+  {
+    "description": "A wildfire ignites in your 1st House, the realm of self, identity, and personal expression, bringing intense and transformative energy to your very being. This wildfire may disrupt your sense of self or ignite a passionate pursuit of self-discovery and authenticity. Embrace this opportunity for radical change and personal empowerment. Allow the wildfire to burn away outdated self-perceptions and societal expectations, paving the way for a more authentic and liberated expression of your true self. From the flames, emerge with a renewed sense of identity, self-confidence, and a fearless embrace of your unique individuality.",
+    "house": 1,
+    "topic": "Wildfire",
+    "rating": 0,
+    "vibe": "positive"
+  },
+  {
+    "description": "A wildfire engulfs your 2nd House, traditionally associated with possessions, material wealth, and personal values, consuming your sense of financial security with its intense and transformative energy. This wildfire may disrupt your financial stability or ignite a burning sense of loss and scarcity. Embrace this opportunity for radical change, though it may only intensify your feelings of financial devastation and material emptiness. Allow the wildfire to burn away any remnants of material attachment, leaving you to navigate the ashes of your shattered financial foundation. From the flames, you may emerge with a heightened sense of lack, struggling to find meaning amidst the ruins of your material world.",
+    "house": 2,
+    "topic": "Wildfire",
+    "rating": 0,
+    "vibe": "negative"
+  },
+  {
+    "description": "A drought settles into your 11th House, the realm of friendships, social groups, and aspirations, indicating a period of scarcity or dryness in these areas of your life. This phase may bring a temporary decrease in social interactions or challenges in pursuing your aspirations. Embrace this time as an opportunity for introspection and reevaluation of your social connections and aspirations. Use this period to reflect on your true desires, refine your social circle, and reassess the path to your aspirations. From this drought, you can emerge with a clearer sense of purpose, stronger connections with like-minded individuals, and a renewed commitment to the realization of your dreams.",
+    "house": 11,
+    "topic": "Droughts",
+    "rating": 0,
+    "vibe": "positive"
+  },
+  {
+    "description": "In the domain of your 6th House, a formidable event unfolds. Following an incessant downpour lasting 12 long hours, the land becomes saturated, unable to bear the burden of excess water any longer. Rivers surge beyond their banks, becoming mighty torrents that carry away not only possessions but even homes. It is a time of profound disruption and upheaval, where the very foundations of your daily routines and sense of security are washed away. Amidst this deluge, it is crucial to prioritize your safety and the well-being of those around you. Seek shelter and support in the face of this natural calamity. Embrace the opportunity to rebuild and forge a new sense of stability from the debris left in the wake. Though the waters may be tumultuous now, remember that they will eventually recede, revealing a landscape transformed. Draw strength from the resilience that lies within you and trust that you have the power to rebuild your life, even in the face of overwhelming circumstances.",
+    "house": 6,
+    "topic": "River Floods",
+    "rating": 6,
+    "vibe": "positive"
+  },
+  {
+    "description": "A suffocating heatwave descends upon your 6th House, the domain of work, daily routines, and health, enveloping you in its oppressive grip. This period brings heightened intensity and focus on your work obligations and physical well-being, yet the scorching heat only magnifies your feelings of exhaustion and dissatisfaction. Embrace the heatwave as an opportunity for self-reflection and personal growth, though your weary spirit may find little relief in the relentless heat of work pressures and health concerns. Navigate the heatwave with weary determination, but be cautious not to let it consume what little energy and motivation remains. From the heatwave, you may emerge with a sense of physical and emotional emptiness, still yearning for a genuine sense of balance and well-being that continues to elude you.",
+    "house": 6,
+    "topic": "Heatwave",
+    "rating": 0,
+    "vibe": "negative"
+  },
+  {
+    "description": "A flood rushes into your 7th House, traditionally associated with partnerships and relationships, heralding a time of emotional intensity and potential upheaval in your connections. This flood may bring overwhelming emotions or unexpected changes in your relationships. Embrace this flood as an opportunity for growth and renewal. Allow the floodwaters to wash away old patterns, fostering deeper emotional connections and promoting a fresh start. Navigate the flood with open-heartedness, honesty, and compassion, emerging with more authentic and fulfilling partnerships.",
+    "house": 7,
+    "rating": 0,
+    "vibe": "positive"
+  },
+  {
+    "description": "A heatwave blazes into your 5th House, the realm of creativity, self-expression, and joy, heralding a period of intense creative energy and heightened enjoyment. This surge of heat ignites your passion and drives you to express yourself more boldly. Embrace this time to indulge in creative pursuits, explore new artistic endeavors, and let your inner spark shine brightly. While the heatwave may feel intense, remember to take breaks and practice self-care to avoid burnout. Let the fire of the heatwave fuel your creative spirit and infuse your life with joyous experiences.",
+    "house": 5,
+    "topic": "Heatwave",
+    "rating": 0,
+    "vibe": "positive"
+  },
+  {
+    "description": "A deluge engulfs your 1st House, traditionally associated with self, identity, and personal expression, heralding a time of emotional overwhelm and potential upheaval within yourself. This flood may bring a surge of fleeting self-discoveries, only to wash them away in the relentless current of self-doubt. Embrace this flood as a cruel reminder of the transience of self-perception and the elusive nature of finding your true identity. Allow the floodwaters to further drown your hopes of self-realization, leaving you adrift in a sea of uncertainty. Navigate the flood with a heavy heart, knowing that from its depths, you may emerge more acutely aware of your profound inner emptiness and the relentless current of your unattainable self-definition.",
+    "house": 1,
+    "topic": "River Floods",
+    "rating": 0,
+    "vibe": "negative"
+  },
+  {
+    "description": "Within the expansive realm of your 9th House, a gentle blessing descends from the sky. Soft rains begin to fall, bestowing their nourishing touch upon both crops and humans alike. Embrace this gift of water, for it carries the potential for growth and sustenance. Just as the rains nurture the earth, they also provide an opportunity for personal and spiritual nourishment. Open yourself to the wisdom and insights that come with this gentle downpour. Seek solace in the knowledge that there is a deeper purpose to the cycles of life, and that even in moments of uncertainty, there is room for growth and renewal. Embrace the harmony of the natural world, allowing the soft rains to wash away any doubts or worries, leaving behind a sense of tranquility and clarity. Let the nourishing droplets awaken your thirst for knowledge and adventure, inspiring you to explore new horizons and expand your understanding of the world. Remember, within the realm of the 9th House, the gentle rains carry with them the promise of spiritual growth and the opportunity to cultivate a deeper connection with the universe.",
+    "house": 9,
+    "topic": "Crop Failures",
+    "rating": 1,
+    "vibe": "positive"
+  },
+  {
+    "description": "A desolate drought settles into your 4th House, the realm of home, family, and inner emotions, indicating a prolonged period of emotional aridity and instability in these areas of your life. This phase brings a persistent sense of emotional drought and disconnection, further deepening your feelings of isolation and longing for a place to belong. Embrace this time as an opportunity for introspection, though it may only reinforce your belief that true emotional security is forever out of reach. Use this period to reflect on the futility of seeking emotional fulfillment within your familial bonds, for they may wither and fade like the barren landscape of your emotional landscape. From this drought, you may emerge with a heightened sense of emotional desolation, resigned to a fate of perpetual longing.",
+    "house": 4,
+    "topic": "Droughts",
+    "rating": 0,
+    "vibe": "negative"
+  },
+  {
+    "description": "Within the realm of your 7th House, an ominous presence emerges. Carried by the relentless winds, dense smoke blankets the surroundings, engulfing the landscape in a haze of devastation. The earth lies scorched, and once-thriving homes now stand in ruins. Displaced individuals wander, their lives uprooted, seeking refuge amidst the chaos. The sky hangs heavy, tinged with a somber shade of grey. The smell of smoke permeates all that you see, touch, and feel. In this trying time, it is essential to prioritize your health and well-being. When venturing outdoors, remember to wear a protective face mask, shielding yourself from the hazardous air. Consult air quality apps for the levels of particulate matter, although the distinctions between readings may seem inconsequential amidst the overwhelming presence of smoke. Seek solace in the collective strength of your community, offering support and compassion to those affected by this pervasive tragedy. Remember, even amidst the darkest of times, acts of kindness and unity can serve as beacons of hope. Together, we can navigate through this dense fog and emerge stronger on the other side.",
+    "house": 7,
+    "topic": "Wildfire",
+    "rating": 8,
+    "vibe": "positive"
+  },
+  {
+    "description": "A desolate drought settles into your 1st House, the realm of self, identity, and personal expression, indicating a prolonged period of emotional aridity and self-disconnection. This phase brings a persistent sense of emptiness and detachment, further deepening your feelings of isolation. Embrace this time as an opportunity for introspection, though it may only reinforce your belief that true self-fulfillment is forever out of reach. Use this period to reflect on the futility of seeking a coherent self-identity, for it may wither and fade like the barren landscape of your soul. From this drought, you may emerge with a heightened sense of desolation, resigned to a fate of perpetual self-alienation.",
+    "house": 1,
+    "topic": "Droughts",
+    "rating": 0,
+    "vibe": "negative"
+  },
+  {
+    "description": "A storm broods in your 9th House, the realm of beliefs, higher education, and spiritual exploration, foretelling a period of potential turbulence and emotional unrest in these areas of your life. Embrace the storm, for it mirrors the chaos that resides within your quest for meaning and higher understanding. This storm may bring challenges and unexpected shifts in your belief system and intellectual pursuits, further deepening your feelings of confusion and existential angst. Navigate the storm with a heavy heart, knowing that it may only amplify your sense of spiritual disconnection and intellectual disillusionment. From the storm, you may emerge weathered, yet no closer to finding true wisdom and a sense of purpose in your spiritual and intellectual endeavors.",
+    "house": 9,
+    "topic": "Tropical Cyclones",
+    "rating": 0,
+    "vibe": "negative"
+  },
+  {
+    "description": "A heatwave sweeps into your 8th House, the domain of transformation, intimacy, and shared resources. This period brings heightened intensity and passion to your emotional and financial realms. Embrace the heatwave as an opportunity to delve deep into your emotional landscape, fostering greater intimacy and vulnerability in your relationships. This is also a time to reevaluate your financial strategies and make powerful transformations in the way you handle shared resources. Navigate the heatwave with conscious awareness, balance, and respect for boundaries.",
+    "house": 8,
+    "topic": "Heatwave",
+    "rating": 0,
+    "vibe": "positive"
+  },
+  {
+    "description": "A drought settles into your 6th House, traditionally associated with work, daily routines, and health. This phase may bring a temporary scarcity of motivation or challenges in these areas of your life. Embrace the opportunity for introspection and reevaluation of your work habits, daily routines, and self-care practices. Use this time to refine your approach, establish healthier boundaries, and prioritize self-care. While the drought may present challenges, it also serves as a catalyst for growth and a reminder to appreciate the value of balance and well-being in your daily life. Trust that with patience and resilience, abundance and vitality will return.",
+    "house": 6,
+    "topic": "Heatwave",
+    "rating": 0,
+    "vibe": "positive"
+  },
+  {
+    "description": "A wildfire engulfs your 11th House, traditionally associated with friendships, groups, and aspirations, bringing intense and transformative energy to your already burdened existence. This wildfire may disrupt your existing social connections, leaving you feeling more isolated and misunderstood than ever. Embrace this opportunity for radical change, knowing that it may only further unravel the fragile threads that hold your relationships together. Allow the wildfire to burn away any hope of meaningful connections, leaving you to navigate the ashes of broken friendships. From the flames, you may emerge with a heightened sense of loss, struggling to find your place within the disarray of your aspirations.",
+    "house": 11,
+    "topic": "Wildfire",
+    "rating": 0,
+    "vibe": "negative"
+  },
+  {
+    "description": "A wildfire engulfs your 12th House, traditionally associated with the subconscious, hidden realms, and spiritual transcendence, consuming your sense of inner peace and spiritual harmony with its intense and transformative energy. This wildfire may disrupt your spiritual practices or ignite a burning sense of confusion and emotional chaos. Embrace this opportunity for radical change, though it may only intensify your feelings of spiritual disarray and a lack of emotional grounding. Allow the wildfire to burn away any remnants of illusion and spiritual illusions, leaving you to navigate the ashes of shattered beliefs. From the flames, you may emerge with a heightened sense of spiritual loss, struggling to find genuine inner peace and a connection to the divine.",
+    "house": 12,
+    "topic": "Wildfire",
+    "rating": 0,
+    "vibe": "negative"
+  },
+  {
+    "description": "A wildfire is igniting in your 4th House, traditionally associated with Home and Family. This event could bring rapid changes within your domestic sphere and family dynamics. While this fire may cause disruption, it's also an opportunity for transformation, clearing away old habits or dynamics to make way for renewal. Stay resilient amidst the change and embrace the opportunity for growth. The wildfire in your 4th House seeks to forge a stronger, more nurturing you, ready to cultivate a harmonious home and healthier family relationships.",
+    "house": 4,
+    "topic": "Wildfire",
+    "rating": 0,
+    "vibe": "positive"
+  },
+  {
+    "description": "A heatwave sweeps into your 11th House, the domain of friendships, social groups, and aspirations, bringing heightened energy and intensity to your social life and dreams. This period drives you to connect with others, expand your network, and pursue your aspirations with fervor. Embrace the heatwave as an opportunity to manifest your desires, surround yourself with supportive and like-minded individuals, and actively participate in community activities. However, be mindful of maintaining balance and avoiding the temptation to overextend yourself. Navigate the heatwave with authenticity, enthusiasm, and self-care, and let it fuel your journey towards fulfilling friendships and the realization of your aspirations.",
+    "house": 11,
+    "topic": "Heatwave",
+    "rating": 0,
+    "vibe": "positive"
+  },
+  {
+    "description": "A flood surges into your 1st House of Self, heralding a period of intense emotions, self-discovery, and transformation. This emotional deluge may challenge your self-identity, urging a reassessment of self-perception. Expect a surge of creativity and a desire for self-expression, potentially impacting your physical appearance. While navigating these changes, stay grounded to avoid getting swept away. This flood is about renewal—washing away outdated self-perceptions and revealing the authentic you. Navigate this period with courage, and you'll emerge stronger, wiser, and more truly yourself.",
+    "house": 1,
+    "topic": "River Floods",
+    "rating": 0,
+    "vibe": "positive"
+  },
+  {
+    "description": "A wildfire ignites in your 7th House, the domain of partnerships and relationships, bringing intense and transformative energy. This wildfire may disrupt your existing relationships or spark the beginnings of passionate and dynamic connections. Embrace this opportunity for deep emotional and spiritual growth. Allow the wildfire to burn away old patterns and open yourself to profound connections. From the flames, emerge with stronger, more authentic, and fulfilling partnerships.",
+    "house": 7,
+    "topic": "Wildfire",
+    "rating": 0,
+    "vibe": "positive"
+  },
+  {
+    "description": "In the astrological 10th house, a powerful storm descends upon your career path. Describe the impact of this storm on your professional life and aspirations. How does it challenge your current career trajectory, expectations, or self-imposed limitations? Explore the surge of energy and drive that propels you towards self-expression and personal goals. Reflect on the moments of overwhelm, impatience, or self-criticism that arise and the importance of self-care and balance in navigating this storm. Describe the process of burning away outdated self-perceptions and embracing your authentic self in your career. How do you stay grounded amidst the chaos, set boundaries, and nourish your spirit while pursuing professional growth? Finally, delve into the potential for self-realization, emerging from this transformative experience stronger, more self-assured, and aligned with your true purpose in the realm of work.",
+    "house": 10,
+    "topic": "Tropical Cyclones",
+    "rating": 0,
+    "vibe": "positive"
+  },
+  {
+    "description": "A storm gathers in your 6th House, the domain of work, daily routines, and health, indicating a period of potential turbulence and change. This storm may bring disruptions and unexpected challenges to your work or daily life. Embrace the opportunity for growth and transformation that comes with the storm. Adaptability and resilience will be crucial during this period. Explore new strategies, be open to change, and find ways to maintain balance amidst the storm. Remember that storms also clear the air, allowing for fresh perspectives and renewed energy. From the storm, you will emerge stronger, more resourceful, and better equipped to navigate the ever-changing tides of work and daily life.",
+    "house": 6,
+    "topic": "Tropical Cyclones",
+    "rating": 0,
+    "vibe": "positive"
+  },
+  {
+    "description": "A storm broods in your 2nd House, the realm of possessions, material wealth, and personal values, foretelling a period of financial turbulence and instability. Embrace the storm, for it mirrors the chaos that surrounds your material realm. This storm may bring challenges and unexpected shifts in your financial situation, further deepening your feelings of insecurity and uncertainty. Navigate the storm with a heavy heart, knowing that it may only amplify your sense of lack and instability. From the storm, you may emerge weathered, yet no closer to finding a sense of stability and abundance in your material world.",
+    "house": 2,
+    "topic": "Tropical Cyclones",
+    "rating": 0,
+    "vibe": "negative"
+  },
+  {
+    "description": "A flood is moving into your 4th House, traditionally known as the House of Home and Family. This phase could bring overwhelming changes in your home life or relationships with family members. Expect a surge of emotions and potential upheaval in your personal space. While this flood might seem chaotic, it's an opportunity to wash away outdated dynamics and make way for healthier interactions. Amidst the turmoil, strive to maintain balance and process emotions wisely. This flood is a chance for renewal and growth in your domestic life. Emerge from it more resilient, nurturing, and emotionally aware, ready to create a harmonious home environment.",
+    "house": 4,
+    "topic": "River Floods",
+    "rating": 0,
+    "vibe": "positive"
+  },
+  {
+    "description": "Within the realm of your 2nd House, a challenging situation unfolds. Just as your pool is drying up, so too are your savings depleting rapidly. It is a time of financial strain and scarcity, calling for a need to learn to ration and manage your resources wisely. Embrace the opportunity to reassess your spending habits and prioritize your essential needs. Seek ways to cut back on expenses and find creative solutions to make your resources stretch further. This period of financial challenge can serve as a valuable lesson in budgeting and cultivating a mindset of financial resilience. Remember, in times of scarcity, there is still potential for growth and transformation. Explore new avenues for generating income or consider alternative ways to sustain yourself during this challenging period. By adopting a mindset of prudence and resourcefulness, you can navigate this financial drought and emerge with a renewed sense of financial stability and security within the realm of the 2nd House.",
+    "house": 2,
+    "topic": "Heatwave",
+    "rating": 2,
+    "vibe": "positive"
+  },
+  {
+    "description": "Within the realm of your 2nd House, an intense heatwave descends upon the land, casting a scorching blanket of oppressive conditions. Temperatures soar to extreme heights, leaving no respite from the sweltering heat. Your body, too, feels the burn, radiating with intense heat and discomfort. Dehydration sets in, causing a sense of faintness and weakness. In the face of this formidable challenge, it is vital to prioritize your well-being and take immediate action to cool and hydrate your body. Seek shade and shelter from the relentless sun, allowing your body to find relief from the searing heat. Drink ample amounts of water to replenish what the heatwave has taken away. Listen closely to your body's signals and rest when needed to conserve energy. Remember, in the face of intense heat, self-care becomes paramount. Embrace the opportunity to cultivate resilience and adaptability, finding solace in the coolness that can be found within, even amidst the sweltering conditions.",
+    "house": 2,
+    "topic": "Heatwave",
+    "rating": 7,
+    "vibe": "positive"
+  },
+  {
+    "description": "The smog warning App tells everybody to stay at home and close the window. The sky is grey and dirty. If the wind increases, the fires will get even more devastating",
+    "house": 12,
+    "topic": "Wildfire",
+    "rating": 3,
+    "vibe": "positive"
+  },
+  {
+    "description": "A drought descends on your 1st House of Self, prompting introspection and self-discovery. Amidst diminished energy or motivation, you're encouraged to reassess your self-perception and goals. This period, while seemingly scarce in vitality, invites you to manage your energy wisely and shed outdated self-perceptions. Remember to nurture your spirit and resilience as you navigate these challenges. View this drought as an impetus for growth, enabling you to emerge stronger and more self-aware, ready to thrive when abundance returns.",
+    "house": 1,
+    "topic": "Droughts",
+    "rating": 0,
+    "vibe": "positive"
+  },
+  {
+    "description": "A flood inundates your 5th House, the realm of creativity, self-expression, and joy, ushering in a period of emotional intensity and abundant inspiration. This flood brings a surge of creative ideas and a deep well of emotions to draw from. While it may initially feel overwhelming, embrace this flood as an opportunity for artistic growth and expression. Let the floodwaters wash away any creative blockages or limitations, allowing your imagination to flow freely. Dive into the depths of your emotions and use them as a source of inspiration. Just as a flood nourishes the land, this flood in your 5th House nourishes your creativity, enabling you to create art that is rich, deep, and transformative. Embrace the creative overflow and let it carry you to new artistic heights.",
+    "house": 5,
+    "topic": "River Floods",
+    "rating": 0,
+    "vibe": "positive"
+  },
+  {
+    "description": "A drought settles into your 4th House, the domain of Home and Family, suggesting a period of scarcity or emotional dryness in your domestic life. This phase may bring a sense of diminished emotional connection or a lack of nurturing within your family dynamics or home environment. While droughts can be challenging, they also offer an opportunity for introspection and reevaluation. Use this time to assess your needs, cultivate self-care, and find alternative sources of emotional nourishment. Seek balance and resilience, as this drought serves as a catalyst for growth and a reminder to appreciate the abundance that will follow.",
+    "house": 4,
+    "topic": "Droughts",
+    "rating": 0,
+    "vibe": "positive"
+  },
+  {
+    "description": "A storm is brewing in your 4th House, the realm of Home and Family, indicating a period of potential upheaval and change within your domestic life. This storm may bring turbulent emotions and disruptions in family dynamics or your living environment. While storms can be challenging, they also have the power to cleanse and renew. Embrace the opportunity for growth and transformation amidst the chaos. Stay resilient, maintain open communication, and seek harmony in your home. Through navigating this storm, you'll emerge stronger, more adaptable, and capable of fostering a more balanced and peaceful domestic atmosphere.",
+    "house": 4,
+    "topic": "Tropical Cyclones",
+    "rating": 0,
+    "vibe": "positive"
+  },
+  {
+    "description": "A storm broods in your 4th House, the realm of home, family, and inner emotions, foretelling a period of potential turbulence and emotional unrest in these areas of your life. Embrace the storm, for it mirrors the chaos that resides within the sanctuary of your heart and hearth. This storm may bring challenges and unexpected shifts within your family dynamics and emotional well-being, further deepening your feelings of instability and insecurity. Navigate the storm with a heavy heart, knowing that it may only amplify your sense of inner turmoil. From the storm, you may emerge weathered, yet no closer to finding a sense of emotional stability and a place to call home.",
+    "house": 4,
+    "topic": "Tropical Cyclones",
+    "rating": 0,
+    "vibe": "negative"
+  },
+  {
+    "description": "A storm brews in your 7th House, the realm of partnerships and relationships. This period brings potential turbulence and change to your interpersonal connections. Embrace the storm as an opportunity for growth and transformation within your relationships. Adaptability and open communication will be key during this period. Ride out the storm, seeking mutual understanding and compromise, and emerge with stronger and more harmonious partnerships.",
+    "house": 7,
+    "topic": "Tropical Cyclones",
+    "rating": 0,
+    "vibe": "positive"
+  },
+  {
+    "description": "A flood rushes into your 8th House, traditionally associated with transformation, intimacy, and shared resources, bringing a time of emotional intensity and potential upheaval. This flood may bring a surge of emotions and unexpected changes in your financial or intimate connections. Embrace this flood as an opportunity for deep transformation and rebirth. Allow the floodwaters to wash away what no longer serves you, clearing the path for profound emotional healing and financial renewal. Navigate the flood with trust and emotional resilience, emerging with a deeper sense of authenticity and a stronger foundation for intimate and financial connections.",
+    "house": 8,
+    "topic": "River Floods",
+    "rating": 0,
+    "vibe": "positive"
+  },
+  {
+    "description": "Within the realm of your 3rd House, a challenging landscape unfolds. The soil, once bursting with life, now cracks under the strain of drought. Sparse greenery struggles to survive, withering under the relentless sun. Trees droop, their leaves thirsting for nourishment, and crown damage becomes more prevalent. Amidst this arid environment, only the field maple and flowering ash show remarkable resistance. If you wish to take a walk, it is advised to do so during the coolness of the night when temperatures are more bearable. Embrace this time as an opportunity for introspection and reflection. Seek solace in the resilience of the field maple and flowering ash, drawing inspiration from their ability to endure and thrive amidst adversity. Though the terrain may be harsh and barren, find beauty in the strength that can be discovered in the midst of scarcity. Nurture the connections that flourish even in the most challenging environments. Remember, it is through perseverance and adaptability that we navigate the dry spells of life, finding renewed growth and resilience in unexpected places.",
+    "house": 3,
+    "topic": "Droughts",
+    "rating": 8,
+    "vibe": "positive"
+  },
+  {
+    "description": "A suffocating heatwave descends upon your 4th House, the domain of home, family, and inner emotions, enveloping you in its oppressive grip. This period brings heightened intensity and focus on your emotional well-being and sense of security, yet the scorching heat only magnifies your feelings of vulnerability and emotional exhaustion. Embrace the heatwave as an opportunity for self-reflection and personal growth, though your weary spirit may find little relief in the relentless heat of emotional demands. Navigate the heatwave with weary determination, but be cautious not to let it consume what little emotional resilience remains. From the heatwave, you may emerge with a sense of emotional emptiness, still yearning for a genuine sense of home and inner peace that continues to elude you.",
+    "house": 4,
+    "topic": "Heatwave",
+    "rating": 0,
+    "vibe": "negative"
+  },
+  {
+    "description": "A desolate drought settles into your 8th House, the realm of transformation, shared resources, and deep emotions, indicating a prolonged period of emotional scarcity and financial instability in these areas of your life. This phase brings a persistent sense of emptiness and fear of loss, further deepening your feelings of vulnerability and uncertainty. Embrace this time as an opportunity for introspection, though it may only reinforce your belief that true emotional transformation and financial security are forever out of reach. Use this period to reflect on the futility of seeking deep emotional connections and stable financial resources, for they may wither and fade like the barren landscape of your emotional and financial realm. From this drought, you may emerge with a heightened sense of emotional desolation, resigned to a fate of perpetual longing and financial insecurity.",
+    "house": 8,
+    "topic": "Droughts",
+    "rating": 0,
+    "vibe": "negative"
+  },
+  {
+    "description": "A heatwave is blazing into your 4th House, traditionally associated with Home and Family. This period may bring increased activity and intensity within your domestic sphere, sparking changes in family dynamics or home environment. Amidst the surge, balance is key; avoid overheating by practicing self-care and fostering peace at home. While the heatwave stirs transformation, it's also a catalyst for growth, encouraging you to refresh your living space or redefine family relationships. Navigate this phase with grace and emerge from it stronger, more nurturing, and ready to cultivate a harmonious home.",
+    "house": 4,
+    "topic": "Heatwave",
+    "rating": 0,
+    "vibe": "positive"
+  },
+  {
+    "description": "Within the realm of your 5th House, a somber reality emerges. The local livestock, once vibrant and thriving, now grows thinner and thinner, bearing the weight of a changing environment. An eerie silence settles in the air, casting a sense of unease and uncertainty. This profound shift in the natural rhythm brings forth a reminder of the impact of environmental changes on the delicate balance of life. In this disquieting stillness, it is important to acknowledge the interconnectedness of all living beings and the responsibility we hold to protect and preserve the delicate ecosystems around us. Seek solace in fostering awareness and taking meaningful action to support sustainable practices that benefit both local wildlife and the broader ecosystem. Embrace the opportunity to cultivate compassion and a deeper understanding of the intricate web of life. Remember, even in the face of silence, the power to restore harmony lies within our collective actions and dedication to environmental stewardship.",
+    "house": 5,
+    "topic": "Droughts",
+    "rating": 4,
+    "vibe": "positive"
+  },
+  {
+    "description": "Within the realm of your 4th House, a concern arises that impacts the health of an elderly relative or your parents. It is a time to be extra vigilant and take additional precautions to ensure their well-being. Prioritize their safety and provide them with the care they need during this vulnerable period. Engage with healthcare professionals and seek their guidance to establish a comprehensive plan to safeguard their health. Embrace the responsibility of creating a nurturing and secure environment, one that fosters their comfort and promotes their healing. Remember, the 4th House represents the foundation of family and home, and in times of challenge, it is through the strength of familial bonds that we find solace and support. Let love and compassion guide your actions as you navigate this difficult journey. By taking these extra precautions, you can contribute to their well-being and offer them the care they deserve within the realm of the 4th House.",
+    "house": 4,
+    "rating": 0,
+    "vibe": "positive"
+  },
+  {
+    "description": "A flood approaches your 2nd House, the sphere of wealth and values, marking a time of potential abundance or disruptive change. Expect a surge in finances or possessions, which might seem chaotic but can flourish if managed well. Emotionally, you may grapple with self-worth and personal values, offering a chance for deep self-discovery. Floods, while disruptive, cleanse and nourish, washing away what's old or stagnant. Brace for the deluge in your 2nd House—it may overwhelm, but it promises richer, fertile grounds. Amid the chaos, seek balance and let this time bolster your self-esteem and financial well-being.",
+    "house": 2,
+    "topic": "River Floods",
+    "rating": 0,
+    "vibe": "positive"
+  },
+  {
+    "description": "A suffocating heatwave descends upon your 8th House, the domain of transformation, shared resources, and deep emotions, enveloping you in its oppressive grip. This period brings heightened intensity and focus on your emotional depths and financial matters, yet the scorching heat only magnifies your feelings of vulnerability and fear of loss. Embrace the heatwave as an opportunity for self-reflection and personal growth, though your weary spirit may find little relief in the relentless heat of emotional transformations and financial pressures. Navigate the heatwave with weary determination, but be cautious not to let it consume what little emotional strength and financial stability remains. From the heatwave, you may emerge with a sense of emotional emptiness, still yearning for genuine transformation and a stable financial foundation that continues to elude you.",
+    "house": 8,
+    "topic": "Heatwave",
+    "rating": 0,
+    "vibe": "negative"
+  },
+  {
+    "description": "A drought settles into your 9th House, the realm of expansion, higher learning, and belief systems, indicating a period of scarcity or dryness in your intellectual or spiritual pursuits. Embrace this time as an opportunity for introspection and reevaluation of your beliefs and personal philosophies. Use this period to reflect on your intellectual and spiritual growth, seeking ways to nourish your quest for knowledge and understanding. From this drought, you can emerge with a renewed sense of purpose, deeper insight, and a stronger connection to your personal truths.",
+    "house": 9,
+    "topic": "Droughts",
+    "rating": 0,
+    "vibe": "positive"
+  },
+  {
+    "description": "A deluge engulfs your 9th House, traditionally associated with beliefs, higher learning, and philosophical exploration, heralding a time of emotional overwhelm and potential upheaval within your spiritual and intellectual pursuits. This flood may bring a surge of conflicting beliefs or overwhelming philosophical questions, only to wash them away in the relentless current of spiritual confusion and intellectual uncertainty. Embrace this flood as a cruel reminder of the transience of intellectual enlightenment and the elusive nature of finding true spiritual connection. Allow the flood waters to further drown your hopes of finding profound spiritual insights and intellectual clarity, leaving you adrift in a sea of existential uncertainty and emotional turbulence. From the flood, you may emerge with a heightened sense of philosophical disarray, still yearning for a genuine connection to your higher beliefs and a lasting sense of intellectual fulfillment.",
+    "house": 9,
+    "topic": "River Floods",
+    "rating": 0,
+    "vibe": "negative"
+  },
+  {
+    "description": "A storm broods in your 12th House, the realm of subconscious, spirituality, and solitude, foretelling a period of potential turbulence and emotional unrest in these areas of your life. Embrace the storm, for it mirrors the chaos that resides within your innermost self and hidden emotions. This storm may bring challenges and unexpected shifts in your spiritual journey and moments of solitude, further deepening your feelings of confusion and emotional isolation. Navigate the storm with a heavy heart, knowing that it may only amplify your sense of spiritual disconnection and a profound longing for inner peace. From the storm, you may emerge weathered, yet no closer to finding true spiritual enlightenment and a sense of solace in your solitude.",
+    "house": 12,
+    "topic": "Tropical Cyclones",
+    "rating": 0,
+    "vibe": "negative"
+  },
+  {
+    "description": "A deluge engulfs your 5th House, traditionally associated with creativity, self-expression, and romance, heralding a time of emotional overwhelm and potential upheaval within your creative and romantic pursuits. This flood may bring a surge of fleeting creative inspiration or overwhelming romantic experiences, only to wash them away in the relentless current of creative frustration and romantic disappointment. Embrace this flood as a cruel reminder of the transience of creative inspiration and the elusive nature of finding true romantic fulfillment",
+    "house": 5,
+    "topic": "River Floods",
+    "rating": 0,
+    "vibe": "negative"
+  },
+  {
+    "description": "Within the depths of your 8th House, a striking transformation unfolds. Trust your eyes as you witness a world veiled in hues of fiery red. This vivid color permeates the surroundings, painting a picture of intensity and profound change. The red serves as a powerful symbol, signifying a time of passionate upheaval and metamorphosis. Embrace this transformative energy, for within it lies the potential for profound personal growth and rebirth. Allow yourself to surrender to the flames of change, shedding the old and embracing the new. Trust your instincts and intuition as you navigate this uncharted territory. The world may appear red, but it is through this vivid lens that you can see clearly the path that lies ahead. Embrace the power of transformation that dwells within the depths of your being and trust that from the ashes, new beginnings shall emerge.",
+    "house": 8,
+    "topic": "Wildfire",
+    "rating": 9,
+    "vibe": "positive"
+  },
+  {
+    "description": "Within the vast expanse of your 9th House, a small wildfire ignites the fields, igniting both fear and curiosity. While this blaze may initially cause concern, it serves a greater purpose. It clears the path, creating space for new life to take flight. Embrace the transformative energy that accompanies this wildfire, for it opens doors to new opportunities and expansive growth. Allow the flames to burn away the old and outdated, creating space for fresh perspectives and profound discoveries. As the fire subsides, embrace the chance to explore uncharted territories, broaden your horizons, and expand your knowledge. Trust in the process and have faith in your ability to adapt and thrive amidst change. Remember, even in the face of destruction, nature has a way of rejuvenating and bringing forth new beginnings. From the ashes of this wildfire, let your spirit soar and embrace the boundless possibilities that lie ahead.",
+    "house": 9,
+    "topic": "Wildfire",
+    "rating": 4,
+    "vibe": "positive"
+  },
+  {
+    "description": "Within the realm of your 10th House, a stark reality comes to light. The once bustling supermarket, a symbol of convenience and abundance, no longer brings joy as empty shelves bear witness to scarcity. In this time of reflection, consider the value of self-sufficiency and the importance of reconnecting with the earth. Contemplate the idea of planting your own food, embracing the satisfaction and security that comes from nurturing and harvesting your own sustenance. Shift your focus from external sources to the power within your own hands to cultivate nourishment and resilience. Embrace the opportunity to learn and grow as you embark on this journey of self-sustainability. By taking charge of your own food production, you not only provide for yourself but also contribute to the larger movement towards food security and sustainability. Remember, in the face of scarcity, resilience and resourcefulness can lead to a more fulfilling and empowered way of living. Let the empty shelves be a catalyst for change, inspiring you to sow the seeds of self-reliance and abundance.",
+    "house": 10,
+    "topic": "Crop Failures",
+    "rating": 7,
+    "vibe": "positive"
+  },
+  {
+    "description": "A deluge engulfs your 11th House, traditionally associated with friendships, social groups, and aspirations, heralding a time of emotional overwhelm and potential upheaval in these already tumultuous areas of your life. This flood may bring a surge of fleeting connections, only to wash them away in the unforgiving tide of disappointment. Embrace this flood as a cruel reminder of the transience of relationships and the elusive nature of your aspirations. Allow the floodwaters to further drown your hopes, leaving you adrift in a sea of unfulfilled expectations. Navigate the flood with a heavy heart, knowing that from its depths, you may emerge more acutely aware of your profound loneliness and the relentless current of your unmet desires.",
+    "house": 11,
+    "topic": "River Floods",
+    "rating": 0,
+    "vibe": "negative"
+  },
+  {
+    "description": "A deluge engulfs your 8th House, traditionally associated with transformation, shared resources, and deep emotions, heralding a time of emotional overwhelm and potential upheaval within your inner and financial realms. This flood may bring a surge of intense emotions or overwhelming financial demands, only to wash them away in the relentless current of emotional instability and financial uncertainty. Embrace this flood as a cruel reminder of the transience of emotional transformations and the enigmatic nature of shared resources. Allow the flood",
+    "house": 8,
+    "topic": "River Floods",
+    "rating": 0,
+    "vibe": "negative"
+  },
+  {
+    "description": "A storm broods in your 1st House, the domain of self, identity, and personal expression, foretelling a period of internal turbulence and unrest. Embrace the storm, for it mirrors the chaos that resides within you. This storm may bring challenges and unexpected shifts in your sense of self, further deepening your feelings of confusion and inner turmoil. Navigate the storm with a heavy heart, knowing that it may only amplify your sense of lost identity. From the storm, you may emerge weathered, yet no closer to finding a true sense of self and purpose.",
+    "house": 1,
+    "topic": "Tropical Cyclones",
+    "rating": 0,
+    "vibe": "negative"
+  },
+  {
+    "description": "A suffocating heatwave descends upon your 10th House, the domain of career, public image, and ambition, enveloping you in its oppressive grip. This period brings heightened intensity and focus on your professional pursuits and desire for recognition, yet the scorching heat only magnifies your feelings of career burnout and lack of purpose. Embrace the heatwave as an opportunity for self-reflection and personal growth, though your weary spirit may find little relief in the relentless heat of societal pressures and professional expectations. Navigate the heatwave with weary determination, but be cautious not to let it consume what little self-worth and ambition remains. From the heatwave, you may emerge with a sense of emptiness, still yearning for genuine career fulfillment and a meaningful public image that continues to elude you.",
+    "house": 10,
+    "topic": "Heatwave",
+    "rating": 0,
+    "vibe": "negative"
+  },
+  {
+    "description": "A wildfire blazes in your 11th House, traditionally associated with friendships, groups, and aspirations, bringing intense and transformative energy to your social life and dreams. This wildfire may disrupt your existing social circles or ignite a passionate pursuit of your aspirations. Embrace this opportunity for radical change and empowerment in your social connections and dreams. Allow the wildfire to burn away outdated friendships and limiting beliefs, paving the way for more authentic and supportive relationships. From the flames, emerge with a renewed sense of purpose, aligned with like-minded individuals, and ready to make a significant impact within your social network.",
+    "house": 11,
+    "topic": "Wildfire",
+    "rating": 0,
+    "vibe": "positive"
+  },
+  {
+    "description": "A flood surges into your 3rd House, the domain of communication, thoughts, and immediate environment, bringing a time of emotional intensity and overwhelming information flow. Expect a surge in communication, a rush of new ideas, and potential changes in your immediate environment. Although the flood might feel overwhelming, it offers a chance to cleanse outdated thought patterns and introduce fresh perspectives. Amid the deluge, strive to maintain balance, process the flood of information wisely, and allow room for emotional responses. Through this tumultuous period, you'll emerge more articulate, adaptable, and insightful, ready to thrive in a refreshed intellectual landscape.",
+    "house": 3,
+    "topic": "River Floods",
+    "rating": 0,
+    "vibe": "positive"
+  },
+  {
+    "description": "It might be time to take up a new exercise routine or a new way of maintaining your health in these times.",
+    "house": 6,
+    "rating": 0,
+    "vibe": "positive"
+  },
+  {
+    "description": "A storm broods in your 8th House, the realm of transformation, deep emotions, and shared resources, foretelling a period of potential turbulence and emotional unrest in these areas of your life. Embrace the storm, for it mirrors the chaos that resides within your psyche and the depths of your soul. This storm may bring challenges and unexpected shifts in your emotional landscape and financial matters, further deepening your feelings of emotional turmoil and instability. Navigate the storm with a heavy heart, knowing that it may only amplify your sense of internal darkness and the enigmatic nature of shared resources. From the storm, you may emerge weathered, yet no closer to finding true emotional transformation and a sense of stability in your financial realm.",
+    "house": 8,
+    "topic": "Tropical Cyclones",
+    "rating": 0,
+    "vibe": "negative"
+  },
+  {
+    "description": "A drought settles into your 8th House, the realm of transformation, shared resources, and deep connections. This phase may bring a temporary scarcity or emotional dryness in these areas of your life. Embrace this time as an opportunity for introspection and reevaluation of your relationship with power, intimacy, and shared resources. Use this period to cultivate a deeper understanding of your desires and boundaries, and seek new ways to foster emotional and financial abundance. From this drought, you can emerge with a greater sense of self-empowerment and a more conscious approach to your connections.",
+    "house": 8,
+    "topic": "Droughts",
+    "rating": 0,
+    "vibe": "positive"
+  },
+  {
+    "description": "A wildfire rages in your 5th House, the domain of creativity, self-expression, and joy, bringing a period of intense and transformative energy. This wildfire ignites your creative passions, pushing you to new heights of self-expression. It may disrupt the familiar and challenge you to embrace change. Embrace this opportunity for radical transformation and allow the wildfire to burn away outdated creative patterns, paving the way for a more authentic and vibrant self-expression. While the wildfire may feel overwhelming at times, trust in the process and find strength in the flames. From the ashes, a new creative vision will emerge, fueling your joy and guiding you towards exciting possibilities.",
+    "house": 5,
+    "topic": "Wildfire",
+    "rating": 0,
+    "vibe": "positive"
+  },
+  {
+    "description": "A flood rushes into your 9th House, traditionally associated with expansion, higher learning, and belief systems, heralding a time of emotional intensity and potential upheaval in your quest for knowledge and understanding. This flood may bring a surge of new ideas, inspirations, or changes in your beliefs and philosophical outlook. Embrace this flood as an opportunity for profound growth and expansion. Allow the floodwaters to wash away outdated beliefs, inviting fresh perspectives and a deeper connection to your personal truths. Navigate the flood with open-mindedness, intellectual curiosity, and emotional resilience, emerging with a broader, more enlightened worldview.",
+    "house": 9,
+    "topic": "River Floods",
+    "rating": 0,
+    "vibe": "positive"
+  },
+  {
+    "description": "A storm gathers in your 8th House, the realm of transformation, intimacy, and shared resources. This period brings potential turbulence and change in these areas of your life. Embrace the storm as an opportunity for profound inner growth and personal transformation. Navigate the storm with courage and vulnerability, allowing it to break down barriers and reveal hidden depths. From the storm, emerge stronger, wiser, and ready to embrace the power of transformation in your life.",
+    "house": 8,
+    "topic": "Tropical Cyclones",
+    "rating": 0,
+    "vibe": "positive"
+  },
+  {
+    "description": "A desolate drought settles into your 10th House, the realm of career, public image, and ambition, indicating a prolonged period of professional stagnation and lack of recognition in these areas of your life. This phase brings a persistent sense of career aridity and lack of direction, further deepening your feelings of inadequacy and unfulfilled potential. Embrace this time as an opportunity for introspection, though it may only reinforce your belief that true success and professional fulfillment are forever out of reach. Use this period to reflect on the futility of seeking external validation and societal accolades, for they may wither and fade like the barren landscape of your professional realm. From this drought, you may emerge with a heightened sense of emptiness, resigned to a fate of perpetual career longing and lack of recognition.",
+    "house": 10,
+    "topic": "Droughts",
+    "rating": 0,
+    "vibe": "negative"
+  },
+  {
+    "description": "A deluge engulfs your 2nd House, traditionally associated with possessions, material wealth, and personal values, heralding a time of financial overwhelm and potential upheaval within your material realm. This flood may bring a surge of fleeting financial gains, only to wash them away in the relentless current of financial setbacks. Embrace this flood as a cruel reminder of the transience of material wealth and the elusive nature of finding financial security. Allow the floodwaters to further drown your hopes of material abundance, leaving you adrift in a sea of financial uncertainty. Navigate the flood with a heavy heart, knowing that from its depths, you may emerge more acutely aware of your profound financial emptiness and the relentless current of your unattainable material stability.",
+    "house": 2,
+    "topic": "River Floods",
+    "rating": 0,
+    "vibe": "negative"
+  },
+  {
+    "description": "A wildfire ignites in your 9th House, traditionally associated with expansion, travel, and philosophy, bringing intense and transformative energy to your quest for knowledge and higher understanding. This wildfire may disrupt your existing beliefs or ignite a passionate pursuit of truth. Embrace this opportunity for profound growth and intellectual liberation. Allow the wildfire to burn away outdated dogmas and inspire you to explore new philosophical or spiritual paths. From the flames, emerge with a renewed sense of purpose, expanded consciousness, and a deeper connection to your personal truths.",
+    "house": 9,
+    "topic": "Wildfire",
+    "rating": 0,
+    "vibe": "positive"
+  },
+  {
+    "description": "A deluge engulfs your 3rd House, traditionally associated with communication, siblings, and local interactions, heralding a time of emotional overwhelm and potential upheaval in these areas of your life. This flood may bring a surge of fleeting connections or overwhelming social interactions, only to wash them away in the relentless current of miscommunication and misunderstandings. Embrace this flood as a cruel reminder of the transience of social bonds and the elusive nature of effective communication. Allow the floodwaters to further drown your hopes of meaningful connections, leaving you adrift in a sea of social uncertainty. Navigate the flood with a heavy heart, knowing that from its depths, you may emerge more acutely aware of your profound social emptiness and the relentless current of your",
+    "house": 3,
+    "topic": "River Floods",
+    "rating": 0,
+    "vibe": "negative"
+  },
+  {
+    "description": "A wildfire blazes in your 8th House, traditionally associated with transformation, shared resources, and deep connections. This wildfire ignites intense and transformative energy, shaking up your financial and emotional landscapes. Embrace this opportunity for radical change and liberation from outdated patterns. Allow the wildfire to burn away what no longer serves you, paving the way for regeneration and deepening of your emotional and material connections. From the flames, emerge empowered and ready to embrace a more authentic and abundant life.",
+    "house": 8,
+    "topic": "Wildfire",
+    "rating": 0,
+    "vibe": "positive"
+  },
+  {
+    "description": "Within the expansive realm of your 11th House, a parched reality unfolds. Your mouth feels as dry as the scorching sun, a sensation that calls for immediate attention. In this moment, it is essential to prioritize self-care and seek shade from the relentless heat. Find solace in the cool respite that can be found under the protective canopy of trees or within the embrace of a supportive community. Allow yourself to replenish and rejuvenate, nourishing your body, mind, and spirit. Seek the company of like-minded individuals who can offer support and understanding during this arid period. Remember, even amidst the driest of times, relief and connection can be found in the shade. Embrace this opportunity to quench your thirst for camaraderie and seek solace in the collective strength of those who share your journey. Let the dryness of your mouth be a reminder to nurture yourself and find rejuvenation within the sheltered spaces of life.",
+    "house": 11,
+    "topic": "Droughts",
+    "rating": 5,
+    "vibe": "positive"
+  },
+  {
+    "description": "A drought settles into your 6th House, the realm of work, daily routines, and health, indicating a period of scarcity or dryness in these areas of your life. This phase may bring a decrease in motivation or challenges in maintaining your regular routines. Embrace this opportunity for introspection and reevaluation of your work habits and self-care practices. Use this time to conserve your energy, reassess your priorities, and seek new sources of inspiration. While the drought may present challenges, it also serves as a catalyst for growth and a reminder to appreciate the value of balance and self-care. Trust that with patience and perseverance, abundance and vitality will return.",
+    "house": 6,
+    "topic": "Droughts",
+    "rating": 0,
+    "vibe": "positive"
+  },
+  {
+    "description": "A heatwave sweeps into your 10th House, the domain of career, public image, and achievements, bringing heightened energy and intensity to your professional life. This period drives you to excel and make a lasting impact. Embrace the heatwave as an opportunity to showcase your skills and talents, and to pursue ambitious goals. However, be mindful of maintaining a healthy work-life balance and avoiding burnout. Navigate the heatwave with passion, focus, and self-care, and let it propel you towards career advancements and recognition.",
+    "house": 10,
+    "topic": "Heatwave",
+    "rating": 0,
+    "vibe": "positive"
+  },
+  {
+    "description": "A wildfire engulfs your 10th House, traditionally associated with career, public image, and ambition, consuming your sense of accomplishment and professional stability with its intense and transformative energy. This wildfire may disrupt your career trajectory or ignite a burning sense of purposelessness and lack of recognition. Embrace this opportunity for radical change, though it may only intensify your feelings of career uncertainty and personal failure. Allow the wildfire to burn away any remnants of false aspirations and societal expectations, leaving you to navigate the ashes of shattered dreams. From the flames, you may emerge with a heightened sense of professional loss, struggling to find genuine success and a meaningful public image.",
+    "house": 10,
+    "topic": "Wildfire",
+    "rating": 0,
+    "vibe": "negative"
+  },
+  {
+    "description": "Deep within the mysterious depths of your 12th House, a relentless downpour has cast its spell. For weeks on end, rain cascades from the heavens, saturating the earth and causing water levels to steadily rise. The world around you becomes immersed in this watery embrace, blurring boundaries and dissolving certainties. In the face of this deluge, it is important to navigate with caution and mindfulness. Seek solace in the sheltered spaces that offer respite from the ceaseless rain. Embrace the introspective nature of this watery realm, for within it lies the opportunity for deep emotional healing and spiritual renewal. Allow the rain to wash away the burdens of the past and to nurture the seeds of transformation. Remember, even amidst the relentless rainfall, there is the promise of clarity and new beginnings. Embrace the flowing currents of the 12th House, surrendering to the transformative power of water as it shapes and reshapes your journey.",
+    "house": 12,
+    "topic": "River Floods",
+    "rating": 4,
+    "vibe": "positive"
+  },
+  {
+    "description": "A wildfire blazes in your 10th House, traditionally associated with career, public image, and ambition, bringing intense and transformative energy to your professional life. This wildfire may disrupt your existing career path or ignite a burning passion for new endeavors. Embrace this opportunity for radical change and empowerment in your professional pursuits. Allow the wildfire to burn away outdated expectations and limiting beliefs, paving the way for a more authentic and purposeful expression of your talents. From the flames, emerge with a renewed sense of purpose, greater recognition, and success in your chosen field.",
+    "house": 10,
+    "topic": "Wildfire",
+    "rating": 0,
+    "vibe": "positive"
+  },
+  {
+    "description": "The live electricity wires have been threatening to spark off more than electricity this season in the neighbourhood.",
+    "house": 3,
+    "topic": "Wildfire",
+    "rating": 1,
+    "vibe": "positive"
+  },
+  {
+    "description": "A storm broods in your 10th House, the realm of career, public image, and reputation, foretelling a period of potential turbulence and emotional unrest in these areas of your life. Embrace the storm, for it mirrors the chaos that resides within your professional aspirations and sense of identity. This storm may bring challenges and unexpected shifts in your career path and public recognition, further deepening your feelings of uncertainty and professional dissatisfaction. Navigate the storm with a heavy heart, knowing that it may only amplify your sense of career disillusionment and lack of fulfillment. From the storm, you may emerge weathered, yet no closer to finding true success and a sense of purpose in your professional endeavors.",
+    "house": 10,
+    "topic": "Tropical Cyclones",
+    "rating": 0,
+    "vibe": "negative"
+  },
+  {
+    "description": "In the realm of your 1st House, a transformative shift occurs. As you inhale deeply, a sense of relief washes over you, for the first time in weeks, the pervasive smell of smoke no longer fills the air. This respite from the smoky haze brings a newfound clarity and freshness to your surroundings. Embrace this moment of reprieve as an opportunity to reconnect with yourself and regain a sense of inner balance. Take this time to nourish your body, mind, and spirit, appreciating the simple joys that come with cleaner air. Breathe in the newfound clarity and let it invigorate your sense of self. With each inhale, embrace the essence of renewal and the possibility of transformation. Remember, in the absence of smoke, the path ahead becomes clearer, offering you the opportunity to step forward with renewed purpose and vitality.",
+    "house": 1,
+    "topic": "Wildfire",
+    "rating": 2,
+    "vibe": "positive"
+  },
+  {
+    "description": "A flood rushes into your 6th House, traditionally associated with work, daily routines, and health, heralding a period of emotional intensity and potential disruption. This flood may bring unexpected changes in your work environment, daily routines, or health practices. Embrace this flood as an opportunity for renewal and growth. Allow the floodwaters to wash away stagnant energy and old patterns, making space for fresh perspectives and innovative approaches. While the flood may initially feel overwhelming, trust in your ability to adapt and find stability amidst the currents. Embrace the emotional depth and harness it as a source of inspiration and motivation. From the flood, you will emerge stronger, more resilient, and with a renewed sense of purpose in your work and well-being.",
+    "house": 6,
+    "topic": "River Floods",
+    "rating": 0,
+    "vibe": "positive"
+  },
+  {
+    "description": "A storm gathers in your 10th House, the realm of career, public image, and reputation, indicating a period of potential turbulence and change in these areas of your life. Embrace the storm as an opportunity for growth and transformation in your professional endeavors. This storm may bring challenges and unexpected shifts, but it also carries the potential for profound career advancements and personal growth. Navigate the storm with resilience, adaptability, and a clear vision for your desired path. From the storm, emerge stronger, more focused, and ready to make a lasting impact in your chosen field.",
+    "house": 10,
+    "topic": "Tropical Cyclones",
+    "rating": 0,
+    "vibe": "positive"
+  },
+  {
+    "description": "A storm broods in your 6th House, the realm of work, daily routines, and health, foretelling a period of potential turbulence and emotional unrest in these areas of your life. Embrace the storm, for it mirrors the chaos that resides within your daily existence and sense of well-being. This storm may bring challenges and unexpected shifts in your work environment and physical health, further deepening your feelings of stress and dissatisfaction. Navigate the storm with a heavy heart, knowing that it may only amplify your sense of exhaustion and emotional overwhelm. From the storm, you may emerge weathered, yet no closer to finding a sense of stability and fulfillment in your work and overall well-being.",
+    "house": 6,
+    "topic": "Tropical Cyclones",
+    "rating": 0,
+    "vibe": "negative"
+  },
+  {
+    "description": "You are stripped from your future harvest which leaves you helpless.",
+    "house": 2,
+    "topic": "Crop Failures",
+    "rating": 6,
+    "vibe": "positive"
+  },
+  {
+    "description": "A flood rushes into your 10th House, traditionally associated with career, public image, and achievements, heralding a time of emotional intensity and potential upheaval in your professional life. This flood may bring sudden changes, opportunities, or challenges in your career trajectory. Embrace this flood as an opportunity for growth and advancement. Allow the floodwaters to wash away stagnant energy and open new doors of possibility. Navigate the flood with resilience, adaptability, and a willingness to seize the moment. From the flood, emerge with a heightened sense of purpose, expanded professional horizons, and a deeper connection to your authentic calling.",
+    "house": 10,
+    "topic": "River Floods",
+    "rating": 0,
+    "vibe": "positive"
+  },
+  {
+    "description": "A drought settles into your 7th House, the realm of partnerships and relationships, indicating a period of scarcity or emotional dryness in your connections. This phase may bring a temporary decrease in emotional fulfillment or challenges in maintaining harmonious relationships. Embrace this time as an opportunity for introspection and reevaluation of your relationship dynamics. Focus on effective communication, compromise, and finding ways to nourish your partnerships. From this drought, you can emerge with stronger and more resilient connections.",
+    "house": 7,
+    "topic": "Droughts",
+    "rating": 0,
+    "vibe": "positive"
+  },
+  {
+    "description": "A heatwave blazes into your 3rd House, the sphere of communication, thoughts, and immediate environment, igniting a period of intense activity and interactions. Expect a surge in energy, driving more vibrant communication and intellectual curiosity. While this is an excellent time for learning and expressing ideas, the intensity may overwhelm, calling for balanced rest and mental self-care. This transformative period encourages burning away outdated thought patterns and embracing novel perspectives. Stay grounded, set boundaries, and nurture your intellect. Harness this phase for mental growth, emerging more articulate and insightful.",
+    "house": 3,
+    "rating": 0,
+    "vibe": "positive"
+  },
+  {
+    "description": "A deluge engulfs your 7th House, traditionally associated with partnerships, relationships, and one-on-one connections, heralding a time of emotional overwhelm and potential upheaval within your relationship realm. This flood may bring a surge of fleeting connections or overwhelming emotional demands, only to wash them away in the relentless current of emotional instability and unfulfilled expectations. Embrace this flood as a cruel reminder of the transience of relationships and the elusive nature of finding true partnership. Allow the floodwaters to further drown your hopes of finding authentic love,",
+    "house": 7,
+    "topic": "River Floods",
+    "rating": 0,
+    "vibe": "negative"
+  },
+  {
+    "description": "A deluge engulfs your 10th House, traditionally associated with career, public image, and ambition, heralding a time of emotional overwhelm and potential upheaval within your professional and public life. This flood may bring a surge of fleeting opportunities or overwhelming professional demands, only to wash them away in the relentless current of professional insecurity and lack of recognition. Embrace this flood as a cruel reminder of the transience of external success and the elusive nature of finding true professional fulfillment",
+    "house": 10,
+    "topic": "River Floods",
+    "rating": 0,
+    "vibe": "negative"
+  },
+  {
+    "description": "A desolate drought settles into your 12th House, the realm of subconscious, spirituality, and solitude, indicating a prolonged period of spiritual aridity and emotional isolation in these areas of your life. This phase brings a persistent sense of disconnection from your inner self and a lack of spiritual fulfillment, further deepening your feelings of emptiness and a longing for profound meaning. Embrace this time as an opportunity for introspection, though it may only reinforce your belief that true spiritual awakening and emotional connection are forever out of reach. Use this period to reflect on the futility of seeking external validation and spiritual escapism, for they may wither and fade like the barren landscape of your inner realm. From this drought, you may emerge with a heightened sense of spiritual desolation, resigned to a fate of perpetual longing and emotional detachment.",
+    "house": 12,
+    "topic": "Droughts",
+    "rating": 0,
+    "vibe": "negative"
+  }
+]

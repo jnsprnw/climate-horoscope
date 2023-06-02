@@ -1,0 +1,477 @@
+[
+  {
+    "text": "Listen to children.",
+    "event": [
+      "all"
+    ]
+  },
+  {
+    "text": "Listen to elders.",
+    "event": [
+      "all"
+    ]
+  },
+  {
+    "text": "Seek multispecies wisdom.",
+    "event": [
+      "all"
+    ]
+  },
+  {
+    "text": "Share your knowledge.",
+    "event": [
+      "all"
+    ]
+  },
+  {
+    "text": "Form colletives.",
+    "event": [
+      "all"
+    ]
+  },
+  {
+    "text": "Tend to the vulnerable.",
+    "event": [
+      "all"
+    ]
+  },
+  {
+    "text": "Water your neighbours.",
+    "event": [
+      "Droughts"
+    ]
+  },
+  {
+    "text": "Water old growth.",
+    "event": [
+      "Droughts"
+    ]
+  },
+  {
+    "text": "Become a habitat.",
+    "event": [
+      "Droughts",
+      "Heatwave"
+    ]
+  },
+  {
+    "text": "Minimise evaporation.",
+    "event": [
+      "Heatwave",
+      "Droughts",
+      "Wildfire"
+    ]
+  },
+  {
+    "text": "Ventilate.",
+    "event": [
+      "Heatwave"
+    ]
+  },
+  {
+    "text": "Prune.",
+    "event": [
+      "Wildfire"
+    ]
+  },
+  {
+    "text": "Adjust watering schedule.",
+    "event": [
+      "Droughts"
+    ]
+  },
+  {
+    "text": "Mulch.",
+    "event": [
+      "Droughts"
+    ]
+  },
+  {
+    "text": "Build multi-species communities.",
+    "event": [
+      "all"
+    ]
+  },
+  {
+    "text": "Share resources.",
+    "event": [
+      "Droughts"
+    ]
+  },
+  {
+    "text": "Focus on the root zone.",
+    "event": [
+      "Heatwave",
+      "Droughts"
+    ]
+  },
+  {
+    "text": "Provide shade.",
+    "event": [
+      "Heatwave"
+    ]
+  },
+  {
+    "text": "Use caution when using generators.",
+    "event": [
+      "Tropical Cyclones",
+      "River Floods"
+    ]
+  },
+  {
+    "text": "Seek shelter in a sturdy building.",
+    "event": [
+      "Tropical Cyclones"
+    ]
+  },
+  {
+    "text": "Stay away from flood-prone areas.",
+    "event": [
+      "Tropical Cyclones",
+      "River Floods"
+    ]
+  },
+  {
+    "text": "Secure outdoor objects.",
+    "event": [
+      "Tropical Cyclones",
+      "River Floods"
+    ]
+  },
+  {
+    "text": "Keep clear of windows.",
+    "event": [
+      "Tropical Cyclones"
+    ]
+  },
+  {
+    "text": "Reduce your carbon footprint.",
+    "event": [
+      "all"
+    ]
+  },
+  {
+    "text": "Stay informed.",
+    "event": [
+      "Wildfire",
+      "River Floods"
+    ]
+  },
+  {
+    "text": "Avoid strenuous activity.",
+    "event": [
+      "Wildfire",
+      "Heatwave"
+    ]
+  },
+  {
+    "text": "Keep windows and doors closed.",
+    "event": [
+      "Wildfire",
+      "Tropical Cyclones"
+    ]
+  },
+  {
+    "text": "Wear protective clothing.",
+    "event": [
+      "Wildfire",
+      "Heatwave"
+    ]
+  },
+  {
+    "text": "Evacuate if instructed.",
+    "event": [
+      "Wildfire",
+      "River Floods",
+      "Tropical Cyclones"
+    ]
+  },
+  {
+    "text": "Have a fire extinguisher on hand.",
+    "event": [
+      "Wildfire",
+      "Heatwave"
+    ]
+  },
+  {
+    "text": "Create a defensible space around your home.",
+    "event": [
+      "Wildfire"
+    ]
+  },
+  {
+    "text": "Avoid flammable materials.",
+    "event": [
+      "Wildfire"
+    ]
+  },
+  {
+    "text": "Avoid starting fires.",
+    "event": [
+      "Wildfire"
+    ]
+  },
+  {
+    "text": "Stay calm and follow instructions from authorities.",
+    "event": [
+      "Wildfire",
+      "Tropical Cyclones",
+      "River Floods"
+    ]
+  },
+  {
+    "text": "Stay informed about road closures and evacuation routes.",
+    "event": [
+      "Wildfire",
+      "Tropical Cyclones",
+      "River Floods"
+    ]
+  },
+  {
+    "text": "Seek medical attention if necessary.",
+    "event": [
+      "all"
+    ]
+  },
+  {
+    "text": "Boil water before drinking if instructed to do so.",
+    "event": [
+      "River Floods"
+    ]
+  },
+  {
+    "text": "Use caution when using generators.",
+    "event": [
+      "River Floods"
+    ]
+  },
+  {
+    "text": "Stay away from downed power lines.",
+    "event": [
+      "River Floods",
+      "Tropical Cyclones"
+    ]
+  },
+  {
+    "text": "Turn off electricity and gas.",
+    "event": [
+      "River Floods"
+    ]
+  },
+  {
+    "text": "Do not walk through floodwaters.",
+    "event": [
+      "River Floods"
+    ]
+  },
+  {
+    "text": "Avoid driving through flooded areas.",
+    "event": [
+      "River Floods"
+    ]
+  },
+  {
+    "text": "Check on each other.",
+    "event": [
+      "all"
+    ]
+  },
+  {
+    "text": "Support relief efforts.",
+    "event": [
+      "all"
+    ]
+  },
+  {
+    "text": "Test the water.",
+    "event": [
+      "River Floods"
+    ]
+  },
+  {
+    "text": "Listen to the weather.",
+    "event": [
+      "all"
+    ]
+  },
+  {
+    "text": "Create an emergency kit.",
+    "event": [
+      "all"
+    ]
+  },
+  {
+    "text": "Move to higher ground.",
+    "event": [
+      "River Floods"
+    ]
+  },
+  {
+    "text": "Rest.",
+    "event": [
+      "Heatwave"
+    ]
+  },
+  {
+    "text": "Conserve energy.",
+    "event": [
+      "all"
+    ]
+  },
+  {
+    "text": "Keep your cat in.",
+    "event": [
+      "Heatwave",
+      "Wildfire",
+      "River Floods"
+    ]
+  },
+  {
+    "text": "Wear loose clothing.",
+    "event": [
+      "Heatwave"
+    ]
+  },
+  {
+    "text": "Seek shade.",
+    "event": [
+      "Heatwave"
+    ]
+  },
+  {
+    "text": "Stay hydrated.",
+    "event": [
+      "Droughts",
+      "Heatwave",
+      "Wildfire"
+    ]
+  },
+  {
+    "text": "Help your neighbours.",
+    "event": [
+      "all"
+    ]
+  },
+  {
+    "text": "Collect rain.",
+    "event": [
+      "Droughts",
+      "Wildfire",
+      "Heatwave"
+    ]
+  },
+  {
+    "text": "Choose drought-tolerant plants.",
+    "event": [
+      "Droughts",
+      "Heatwave"
+    ]
+  },
+  {
+    "text": "Fix leaks.",
+    "event": [
+      "Droughts"
+    ]
+  },
+  {
+    "text": "Check your insurance.",
+    "event": [
+      "all"
+    ]
+  },
+  {
+    "text": "FaceTime your family.",
+    "event": [
+      "all"
+    ]
+  },
+  {
+    "text": "Take in a forest friend.",
+    "event": [
+      "Wildfire",
+      "Heatwave"
+    ]
+  },
+  {
+    "text": "Wear a mask.",
+    "event": [
+      "Wildfire"
+    ]
+  },
+  {
+    "text": "Close windows.",
+    "event": [
+      "Wildfire",
+      "Tropical Cyclones",
+      "Heatwave"
+    ]
+  },
+  {
+    "text": "Maintain your roof.",
+    "event": [
+      "River Floods",
+      "Tropical Cyclones"
+    ]
+  },
+  {
+    "text": "Collect your papers.",
+    "event": [
+      "all"
+    ]
+  },
+  {
+    "text": "Ration water.",
+    "event": [
+      "Wildfire",
+      "Droughts",
+      "River Floods"
+    ]
+  },
+  {
+    "text": "Ration food.",
+    "event": [
+      "all"
+    ]
+  },
+  {
+    "text": "Follow the warnings.",
+    "event": [
+      "all"
+    ]
+  },
+  {
+    "text": "Update you evacuation plan.",
+    "event": [
+      "all"
+    ]
+  },
+  {
+    "text": "Maintain distance.",
+    "event": [
+      "Wildfire",
+      "River Floods"
+    ]
+  },
+  {
+    "text": "Do stay informed about the wind.",
+    "event": [
+      "Wildfire",
+      "Tropical Cyclones"
+    ]
+  },
+  {
+    "text": "Contact your local authority.",
+    "event": [
+      "Wildfire",
+      "Tropical Cyclones",
+      "River Floods"
+    ]
+  },
+  {
+    "text": "Clear vegetation around your home.",
+    "event": [
+      "Wildfire",
+      "Heatwave"
+    ]
+  }
+]

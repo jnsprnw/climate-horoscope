@@ -1,0 +1,342 @@
+[
+  {
+    "text": "Overharvest.",
+    "event": [
+      "Droughts"
+    ]
+  },
+  {
+    "text": "Ignore signs of stress.",
+    "event": [
+      "Heatwave",
+      "Droughts"
+    ]
+  },
+  {
+    "text": "Rely on electricity.",
+    "event": [
+      "all"
+    ]
+  },
+  {
+    "text": "Leave friends unattended.",
+    "event": [
+      "Heatwave"
+    ]
+  },
+  {
+    "text": "Exert yourself",
+    "event": [
+      "Heatwave"
+    ]
+  },
+  {
+    "text": "Fertilise.",
+    "event": [
+      "Droughts"
+    ]
+  },
+  {
+    "text": "Picnic under power lines.",
+    "event": [
+      "Tropical Cyclones"
+    ]
+  },
+  {
+    "text": "Seek shelter under trees.",
+    "event": [
+      "Tropical Cyclones"
+    ]
+  },
+  {
+    "text": "Ignore water restrictions.",
+    "event": [
+      "Droughts",
+      "Heatwave"
+    ]
+  },
+  {
+    "text": "Use a pressure washer unnecessarily.",
+    "event": [
+      "Droughts"
+    ]
+  },
+  {
+    "text": "Leave on sprinklers.",
+    "event": [
+      "Droughts"
+    ]
+  },
+  {
+    "text": "Use a hose to clean your driveway.",
+    "event": [
+      "Droughts"
+    ]
+  },
+  {
+    "text": "Wash your car.",
+    "event": [
+      "Droughts"
+    ]
+  },
+  {
+    "text": "Leave faucets running.",
+    "event": [
+      "Droughts"
+    ]
+  },
+  {
+    "text": "Water your lawn.",
+    "event": [
+      "Droughts"
+    ]
+  },
+  {
+    "text": "Use flammable liquids outdoors.",
+    "event": [
+      "Wildfire"
+    ]
+  },
+  {
+    "text": "Use outdoor lighting with open flames.",
+    "event": [
+      "Wildfire",
+      "Heatwave"
+    ]
+  },
+  {
+    "text": "Use outdoor heaters.",
+    "event": [
+      "Wildfire"
+    ]
+  },
+  {
+    "text": "Burn yard waste.",
+    "event": [
+      "Wildfire"
+    ]
+  },
+  {
+    "text": "Grill.",
+    "event": [
+      "Wildfire"
+    ]
+  },
+  {
+    "text": "Use power tools outdoors.",
+    "event": [
+      "Wildfire"
+    ]
+  },
+  {
+    "text": "Smoke cigarettes.",
+    "event": [
+      "Wildfire"
+    ]
+  },
+  {
+    "text": "Use fireworks.",
+    "event": [
+      "Wildfire"
+    ]
+  },
+  {
+    "text": "Start a campfire.",
+    "event": [
+      "Wildfire"
+    ]
+  },
+  {
+    "text": "Panic.",
+    "event": [
+      "River Floods",
+      "Tropical Cyclones",
+      "Wildfire"
+    ]
+  },
+  {
+    "text": "Park in low-lying areas.",
+    "event": [
+      "River Floods",
+      "Tropical Cyclones"
+    ]
+  },
+  {
+    "text": "Enter buildings with flood damage.",
+    "event": [
+      "River Floods",
+      "Tropical Cyclones"
+    ]
+  },
+  {
+    "text": "Drink floodwater.",
+    "event": [
+      "River Floods",
+      "Tropical Cyclones"
+    ]
+  },
+  {
+    "text": "Play in floodwaters.",
+    "event": [
+      "River Floods",
+      "Tropical Cyclones"
+    ]
+  },
+  {
+    "text": "Ignore evacuation orders.",
+    "event": [
+      "Wildfire",
+      "Tropical Cyclones",
+      "River Floods",
+      "Heatwave"
+    ]
+  },
+  {
+    "text": "Walk through flooded areas.",
+    "event": [
+      "River Floods",
+      "Tropical Cyclones"
+    ]
+  },
+  {
+    "text": "Drive through flooded roads.",
+    "event": [
+      "River Floods",
+      "Tropical Cyclones"
+    ]
+  },
+  {
+    "text": "Prune.",
+    "event": [
+      "Droughts"
+    ]
+  },
+  {
+    "text": "Drive unnecessarily.",
+    "event": [
+      "all"
+    ]
+  },
+  {
+    "text": "Stay out in open areas.",
+    "event": [
+      "Tropical Cyclones",
+      "Wildfire",
+      "River Floods"
+    ]
+  },
+  {
+    "text": "Touch electrical equipment.",
+    "event": [
+      "River Floods",
+      "Tropical Cyclones"
+    ]
+  },
+  {
+    "text": "Use your resources without intention.",
+    "event": [
+      "all"
+    ]
+  },
+  {
+    "text": "Return home too early.",
+    "event": [
+      "Wildfire",
+      "River Floods"
+    ]
+  },
+  {
+    "text": "Swim.",
+    "event": [
+      "River Floods"
+    ]
+  },
+  {
+    "text": "Journal.",
+    "event": [
+      "all"
+    ]
+  },
+  {
+    "text": "Leave the house without a mask.",
+    "event": [
+      "Wildfire"
+    ]
+  },
+  {
+    "text": "Use your airconditioner",
+    "event": [
+      "Tropical Cyclones",
+      "Droughts",
+      "River Floods"
+    ]
+  },
+  {
+    "text": "Underestimate.",
+    "event": [
+      "all"
+    ]
+  },
+  {
+    "text": "Do your laundry.",
+    "event": [
+      "Droughts"
+    ]
+  },
+  {
+    "text": "Fill your pool.",
+    "event": [
+      "Droughts",
+      "Heatwave"
+    ]
+  },
+  {
+    "text": "Shower.",
+    "event": [
+      "Wildfire",
+      "Droughts",
+      "River Floods"
+    ]
+  },
+  {
+    "text": "Light a match.",
+    "event": [
+      "Droughts",
+      "Wildfire",
+      "Heatwave"
+    ]
+  },
+  {
+    "text": "Overwater your meadow.",
+    "event": [
+      "Droughts",
+      "Heatwave"
+    ]
+  },
+  {
+    "text": "Litter.",
+    "event": [
+      "all"
+    ]
+  },
+  {
+    "text": "Exercise outdoors.",
+    "event": [
+      "Wildfire",
+      "Tropical Cyclones",
+      "Heatwave"
+    ]
+  },
+  {
+    "text": "Trust social media.",
+    "event": [
+      "all"
+    ]
+  },
+  {
+    "text": "Take your time.",
+    "event": [
+      "all"
+    ]
+  }
+]
