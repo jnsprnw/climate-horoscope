@@ -15,8 +15,11 @@ Drawing on the concepts of astrology and fueled by real climate science, we offe
 
 ## Background
 
-Developed during the Environmental Data, Media and the Humanities-Hackathon, 31 May - 2 June 2023, Potsdam, organised by the network of digital humanities of Potsdam University in collaboration with Lukas Diestel, Maximilian Hepach, Giacomo Marinsalta, Sybille Neumeyer, Jonas Parnow, Birgit Schneider, May Ee Wong, funded by the Alexander von Humboldt Foundation.
+Developed during the Environmental Data, Media and the Humanities-Hackathon, 31 May - 2 June 2023, Potsdam, organised by the [network of digital humanities of Potsdam University](https://www.uni-potsdam.de/de/digital-humanities/) in collaboration with Lukas Diestel, Maximilian Hepach, Giacomo Marinsalta, Sybille Neumeyer, Jonas Parnow, Birgit Schneider, May Ee Wong, funded by the [Alexander von Humboldt Foundation](https://www.humboldt-foundation.de/en/).
 
+## Technical setup
+
+Most of the text is stored in Notion. The `data/index.js` script pulls the text and writes it to the files in `src/data`. The website is build using SvelteKit. It is deployed on Netlify.
 
 ## Developing
 
