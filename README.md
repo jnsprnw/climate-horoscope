@@ -1,8 +1,10 @@
 # Climate—Fortunes
 
-[https://climate-horoscope.netlify.app/](https://climate-horoscope.netlify.app/)
+[Live version of the climate horoscope](https://climate-horoscope.netlify.app/)
 
 Welcome to your Climate Horoscope, where we navigate the turbulent skies of a world affected by climate change. Let us delve into the atmospheric energies that will shape your day and shed light on the evolving weather patterns around us in times of the climate crisis.
+
+**[Read of white paper](https://glossy-kookaburra-e1c.notion.site/Climate-Fortune-white-paper-a1429d6ed6124d519637d623cffea53d)**
 
 ## About
 Since the beginning of mankind, humans have been looking to the night sky, for reasons as numerous as the stars themselves. Comfort, wonder, a sense of belonging, a sense of futility, guidance, be it in the navigational or the metaphorical sense, the night sky has it all. The systems for translating the movement of the stars into advice, into recommendations, into glimpses of the future, are just as abundant. We yearn to read the stars, especially in times of uncertainty.
