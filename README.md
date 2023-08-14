@@ -22,6 +22,10 @@ Developed during the Environmental Data, Media and the Humanities-Hackathon, 31 
 ## Technical setup
 
 Most of the text is stored in Notion. The `data/index.js` script pulls the text and writes it to the files in `src/data`. The website is build using SvelteKit. It is deployed on Netlify.
+The website is based on some functionalities from [https://myclimatefuture.info/](myclimatefuture.info). The original source code can be found on [https://github.com/VUB-HYDR/myclimatefuture](github.com/VUB-HYDR/myclimatefuture).
+
+## Data
+The data is taken from [https://myclimatefuture.info/](myclimatefuture.info). The original data can be found on [https://github.com/VUB-HYDR/myclimatefuture](github.com/VUB-HYDR/myclimatefuture). 
 
 ## Developing
 
