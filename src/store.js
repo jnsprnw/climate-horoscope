@@ -1,18 +1,18 @@
 import { page } from '$app/stores';
 import data from '$lib/data/data.json';
 import {
-	derived,
-	writable
+  derived,
+  writable,
 } from 'svelte/store';
 import zodiac from 'zodiac-signs';
 
 import {
-	DEFAULT_AGE,
-	DEFAULT_REGION,
-	DEFAULT_TEMPERATURE,
-	LAST_YEAR,
-	RISKS,
-	RISKS_LABELS
+  DEFAULT_AGE,
+  DEFAULT_REGION,
+  DEFAULT_TEMPERATURE,
+  LAST_YEAR,
+  RISKS,
+  RISKS_LABELS,
 } from './config.js';
 import { getValue } from './utils.js';
 
