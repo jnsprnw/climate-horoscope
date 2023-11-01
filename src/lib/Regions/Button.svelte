@@ -8,7 +8,7 @@
   $: isActive = $CURRENT_REGION_INDEX === index;
 
   function change(index) {
-    CURRENT_REGION_INDEX.set(index)
+    CURRENT_REGION_INDEX.set(index);
     fortune.scrollIntoView();
   }
 </script>
@@ -18,4 +18,5 @@
   class:bg-white={!isActive}
   class:bg-gray-900={isActive}
   class:text-white={isActive}
-  on:click={() => change(index)}>{region}</button>
+  on:click={() => change(index)}>{region}</button
+>

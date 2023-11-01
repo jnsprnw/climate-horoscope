@@ -6,10 +6,9 @@
   export let card;
 
   function change(number) {
-    TAROT_NUMBER.set(number)
+    TAROT_NUMBER.set(number);
     card.scrollIntoView();
   }
-  
 </script>
 
 <div class="grid grid-cols-3 sm:grid-cols-7 md:grid-cols-7 w-full gap-x-8 gap-y-4 sm:gap-3">
@@ -23,6 +22,8 @@
       class="border rounded-md shadow-sm py-5 hover:shadow-md bg-cover"
       class:bg-gray-900={$TAROT_NUMBER === number}
       class:hover:bg-amber-100={$TAROT_NUMBER !== number}
-      class:bg-amber-100={$TAROT_NUMBER !== number}> </button>
+      class:bg-amber-100={$TAROT_NUMBER !== number}
+    >
+    </button>
   {/each}
 </div>

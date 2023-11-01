@@ -7,6 +7,7 @@ Welcome to your Climate Horoscope, where we navigate the turbulent skies of a wo
 **[Read of white paper](https://glossy-kookaburra-e1c.notion.site/Climate-Fortune-white-paper-a1429d6ed6124d519637d623cffea53d)**
 
 ## About
+
 Since the beginning of mankind, humans have been looking to the night sky, for reasons as numerous as the stars themselves. Comfort, wonder, a sense of belonging, a sense of futility, guidance, be it in the navigational or the metaphorical sense, the night sky has it all. The systems for translating the movement of the stars into advice, into recommendations, into glimpses of the future, are just as abundant. We yearn to read the stars, especially in times of uncertainty.
 
 Long before we were here, the stars have sent their light and radiation, their gravitational waves, into the ever-growing expanse that is the observable universe. And long after our strange species of evolved apes has vanished, they will continue to do so. Regardless of whether we are there to witness them. We, that for a brief moment in cosmic history, have taken such a keen interest in them.
@@ -25,7 +26,8 @@ Most of the text is stored in Notion. The `data/index.js` script pulls the text 
 The website is based on some functionalities from [https://myclimatefuture.info/](myclimatefuture.info). The original source code can be found on [https://github.com/VUB-HYDR/myclimatefuture](github.com/VUB-HYDR/myclimatefuture).
 
 ## Data
-The data is taken from [https://myclimatefuture.info/](myclimatefuture.info). The original data can be found on [https://github.com/VUB-HYDR/myclimatefuture](github.com/VUB-HYDR/myclimatefuture). 
+
+The data is taken from [https://myclimatefuture.info/](myclimatefuture.info). The original data can be found on [https://github.com/VUB-HYDR/myclimatefuture](github.com/VUB-HYDR/myclimatefuture).
 
 ## Developing
 

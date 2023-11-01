@@ -1,19 +1,9 @@
 import { page } from '$app/stores';
 import data from '$lib/data/data.json';
-import {
-  derived,
-  writable,
-} from 'svelte/store';
+import { derived, writable } from 'svelte/store';
 import zodiac from 'zodiac-signs';
 
-import {
-  DEFAULT_AGE,
-  DEFAULT_REGION,
-  DEFAULT_TEMPERATURE,
-  LAST_YEAR,
-  RISKS,
-  RISKS_LABELS,
-} from './config.js';
+import { DEFAULT_AGE, DEFAULT_REGION, DEFAULT_TEMPERATURE, LAST_YEAR, RISKS, RISKS_LABELS } from './config.js';
 import { getValue } from './utils.js';
 
 function getNUniqueRandomNumbers(n, max) {
@@ -51,15 +41,7 @@ export const CURRENT_REGION_INDEX = writable(DEFAULT_REGION);
 export const CURRENT_TEMPERATURE_INDEX = writable(DEFAULT_TEMPERATURE);
 
 export const VALUES = derived([DATUM, CURRENT_REGION_INDEX], ([$data, $region]) => {
-  return RISKS.map((r, n) =>
-    getValue(
-      $data,
-      $region,
-      n,
-      DEFAULT_TEMPERATURE,
-      new Date().getFullYear() - (LAST_YEAR - DEFAULT_AGE)
-    )
-  );
+  return RISKS.map((r, n) => getValue($data, $region, n, DEFAULT_TEMPERATURE, new Date().getFullYear() - (LAST_YEAR - DEFAULT_AGE)));
 });
 
 export const PROBABILITIES = derived(VALUES, ($values) => {
